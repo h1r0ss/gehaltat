@@ -1,0 +1,17 @@
+{
+  "comment": "QA flags checked by hand against the source and kept as they are; npm run qa leaves them out so only new findings show. Key: record id, then check name and the reason.",
+  "records": {
+    "1vv5jzl": { "label": "payslip OCR merges columns; gross 3,474.75 and payout 2,515.65 fit a 30h month" },
+    "1szoyj4": { "label": "civil-servant payslip layout; net 3,031.18 against gross 4,542.21 is plausible" },
+    "1sl5gih": { "label": "civil-servant payslip layout; net 2,776.18 against gross 3,979.84 is plausible" },
+    "1sgjcjg": { "label": "record removed in QA review" },
+    "1sb9rjm": { "label": "civil-servant payslip layout; net 2,895.56 against gross 4,359.66 is plausible" },
+    "1tat00r": { "mix-up": "2,948.85 is the collective-agreement wage of a newly qualified electrician, so other posts show it too" },
+    "1tsoqaa": { "title-outlier": "corrected to the stated base salary" },
+    "1sb8rqh": { "title-outlier": "12 hours a week (student job); left out by the full-time default" },
+    "1uhchxq": { "title-outlier": "25 hours a week; left out by the full-time default" },
+    "1wcjp0z": { "title-outlier": "a job offer at the collective-agreement minimum, as the post says" },
+    "1wjmtf9": { "consistency": "4th-year apprentice in the energy sector, where apprentice pay is that high; apprentices are left out by default" },
+    "1w1j7r9": { "consistency": "summer intern paid under the metal-industry agreement as an HTL graduate; interns are left out by default" }
+  }
+}

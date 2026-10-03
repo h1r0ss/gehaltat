@@ -1,0 +1,33 @@
+{
+  "name": "gehaltat-salary-benchmark",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "node --experimental-strip-types --no-warnings=ExperimentalWarning --test \"tests/**/*.test.*\"",
+    "collect": "node scripts/collect.mjs",
+    "images": "node scripts/fetch-images.mjs",
+    "ocr": "node scripts/ocr-images.mjs",
+    "purge-images": "node -e \"require('node:fs').rmSync('data/images',{recursive:true,force:true})\"",
+    "prepare-extraction": "node --experimental-strip-types --no-warnings=ExperimentalWarning scripts/prepare-extraction.mjs",
+    "check-extraction": "node --experimental-strip-types --no-warnings=ExperimentalWarning scripts/check-extraction.mjs",
+    "build-data": "node --experimental-strip-types --no-warnings=ExperimentalWarning scripts/build-dataset.mjs",
+    "qa": "node --experimental-strip-types --no-warnings=ExperimentalWarning scripts/qa-dataset.mjs"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^5.0.0",
+    "playwright": "^1.60.0",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0"
+  }
+}

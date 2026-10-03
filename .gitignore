@@ -1,0 +1,21 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+
+# Downloaded images and OCR text can contain personal data from payslips. Never commit.
+data/images/
+data/raw/ocr.jsonl
+
+# The pipeline's working data stays local: full Reddit posts and comments (data/raw), the
+# extraction shards and agent outputs with unredacted text (data/extraction), build and QA
+# reports (data/processed) and the note translations before redaction (data/translations).
+# Only the published, redacted dataset in public/data/ is committed.
+data/raw/
+data/extraction/
+data/processed/
+data/translations/
+
+# Local tool state
+.claude/
+.playwright-mcp/

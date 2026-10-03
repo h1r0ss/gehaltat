@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="GehaltAT Salary Benchmark">
+  <rect width="64" height="64" rx="14" fill="#111111"/>
+  <rect x="12" y="34" width="9" height="18" rx="2" fill="#C8102E"/>
+  <rect x="27.5" y="16" width="9" height="36" rx="2" fill="#C8102E"/>
+  <rect x="43" y="25" width="9" height="27" rx="2" fill="#C8102E"/>
+  <rect x="8" y="29" width="48" height="3" rx="1.5" fill="#FFFFFF"/>
+</svg>
