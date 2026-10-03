@@ -344,6 +344,8 @@ export const en = {
   'methodology.statsBody': 'Gross and net figures are never mixed: each basis uses only entries that state that figure. Percentiles use linear interpolation between order statistics (type 7, as in R or Excel PERCENTILE.INC). Below {min} values no benchmark is shown, below {solid} it is indicative only; amounts are rounded to €50 below 50 values, else to €10. The search counts entries within ±2 years of experience; if fewer than {min} match, it widens to ±4, then ±8 years. “Full-time” means at least {fullTime} hours a week; entries without stated hours are included.',
   'methodology.roleFamilyTitle': 'Role families',
   'methodology.roleFamilyBody': 'Similar job titles (for example Project Manager, Project Lead and IT Project Manager) are grouped into one role group so there are enough salaries to compare. The search compares whole words, word starts and word endings with the groups’ names; case, umlauts, spaces and feminine forms do not matter. If a term matches several groups, you pick one. If it matches none, the job titles of all entries are searched.',
+  'methodology.analyticsTitle': 'Visit statistics',
+  'methodology.analyticsBody': 'Visits to this page are counted anonymously with Cloudflare Web Analytics: no cookies, no advertising and no data that identifies you. Salaries you enter never leave your browser.',
   'methodology.caveatsTitle': 'Caveats',
   'methodology.caveat1':
     'All figures are self-reported by anonymous posters and cannot be verified. Typos, misunderstandings and extraction errors happen, so check the source post before relying on a figure.',

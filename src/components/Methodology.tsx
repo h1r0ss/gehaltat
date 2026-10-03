@@ -43,6 +43,10 @@ export function Methodology() {
           <h3>{t('methodology.roleFamilyTitle')}</h3>
           <p>{t('methodology.roleFamilyBody')}</p>
         </div>
+        <div>
+          <h3>{t('methodology.analyticsTitle')}</h3>
+          <p>{t('methodology.analyticsBody')}</p>
+        </div>
       </div>
       <div className="caveats">
         <h3>{t('methodology.caveatsTitle')}</h3>

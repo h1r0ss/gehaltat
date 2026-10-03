@@ -33,5 +33,16 @@
       </p>
     </noscript>
     <script type="module" src="/src/main.tsx"></script>
+    <!-- Cloudflare Web Analytics: cookieless visit counts, loaded only on the published site so local
+         previews and tests are not counted. The token is public by design (it is part of the page). -->
+    <script>
+      if (location.hostname === 'h1r0ss.github.io') {
+        const beacon = document.createElement('script');
+        beacon.type = 'module';
+        beacon.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+        beacon.setAttribute('data-cf-beacon', '{"token": "a1799e040baf457f8ca258ad69139819"}');
+        document.body.appendChild(beacon);
+      }
+    </script>
   </body>
 </html>
