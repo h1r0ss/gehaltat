@@ -99,7 +99,11 @@
         "Field Service Engineer",
         "HVAC Technician",
         "Heiztechniker",
-        "Kältetechniker"
+        "Kältetechniker",
+        "Kfz-Mechaniker",
+        "Kfz-Mechatroniker",
+        "Kfz-Techniker",
+        "Kfz-Technikerin"
       ]
     },
     {
@@ -134,9 +138,7 @@
         "Maschinenbautechniker",
         "Anlagentechniker",
         "Mechaniker",
-        "Mechanikerin",
-        "Kfz-Mechaniker",
-        "Kfz-Mechatroniker"
+        "Mechanikerin"
       ]
     },
     {
@@ -1023,6 +1025,15 @@
     "Energy Sector Employee": "other",
     "Car Salesperson": "retail-shop-staff",
     "Emergency Medical Technician": "paramedic-emergency-services",
-    "Project Engineer": "degree-engineers"
+    "Project Engineer": "degree-engineers",
+    "Unspecified Position": "other",
+    "IT Technical Lead": "it-infrastructure-operations",
+    "Administrative Clerk": "administrative-clerical",
+    "Deal Desk Manager": "b2b-sales-account-management",
+    "WMS Specialist": "logistics-supply-chain",
+    "Technical Support Engineer": "it-infrastructure-operations",
+    "Sales Support Assistant": "b2b-sales-account-management",
+    "Mechanical Engineering Intern": "degree-engineers",
+    "Utility Field Supervisor": "service-field-technicians"
   }
 }

@@ -5,6 +5,7 @@ import { EMPLOYMENT_TYPES, INDUSTRIES, REGIONS, SALARY_KINDS, SALARY_SOURCES, SE
 import { existsSync, readFileSync } from 'node:fs';
 import { readJsonl, writeJson } from './lib/io.mjs';
 import { extractAmounts, hasAmount } from './lib/numbers.mjs';
+import { normalizeText } from '../src/lib/filters.ts';
 
 const dataset = JSON.parse(await import('node:fs').then((fs) => fs.readFileSync('public/data/salaries.json', 'utf8')));
 const posts = new Map(readJsonl('data/raw/posts.jsonl').map((post) => [post.id, post]));
@@ -122,6 +123,25 @@ for (const r of records) {
   if (r.employmentType === 'apprentice' && (r.grossMonthly ?? 0) > 2300) flag(r, 'consistency', `apprentice earning ${r.grossMonthly} gross`);
   if (r.employmentType === 'intern' && (r.grossMonthly ?? 0) > 3000) flag(r, 'consistency', `intern earning ${r.grossMonthly} gross`);
   if (r.hoursPerWeek !== null && r.hoursPerWeek > 60) flag(r, 'consistency', `${r.hoursPerWeek} h/week`);
+}
+
+// 5b. Role group vs. the job title as posted: an exact known title of another group means the
+// standardized title is wrong (e.g. "Juristin" filed as "Registered Nurse" under nursing).
+const compact = (text) => normalizeText(text).replace(/[^a-z0-9]+/g, '');
+const masculine = (word) => (word.endsWith('innen') && word.length >= 8 ? word.slice(0, -5) : word.endsWith('in') && word.length >= 6 ? word.slice(0, -2) : word);
+const exactTitles = new Map();
+for (const family of dataset.roleFamilies) {
+  for (const title of [family.label, family.labelDe, ...family.aliases]) {
+    const key = compact(title);
+    if (key.length >= 4) exactTitles.set(key, [...(exactTitles.get(key) ?? []), family.id]);
+  }
+}
+for (const r of records) {
+  const key = compact(r.jobTitle);
+  const owners = exactTitles.get(key) ?? exactTitles.get(masculine(key)) ?? [];
+  if (owners.length > 0 && !owners.includes(r.roleFamily)) {
+    flag(r, 'role-group', `job title "${r.jobTitle}" is a title of ${owners.join(', ')}, but the record is in ${r.roleFamily} ("${r.standardizedTitle}")`);
+  }
 }
 
 // 6. Privacy: personal identifiers or special-category hints in published text fields.
