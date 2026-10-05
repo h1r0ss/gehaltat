@@ -4,7 +4,7 @@ import { existsSync, readFileSync } from 'node:fs';
 import { listFiles, readJsonl, readJsonlLoose, writeJson } from './lib/io.mjs';
 import { isEligible, loadGoneImages } from './lib/posts.mjs';
 import { buildRecord } from './lib/records.mjs';
-import { redactAgeGender } from './lib/redact.mjs';
+import { redactPersonal } from './lib/redact.mjs';
 import { netMonthly } from '../src/lib/net.ts';
 
 const POSTS_FILE = 'data/raw/posts.jsonl';
@@ -109,11 +109,11 @@ for (const record of unique) {
     netsDropped.push({ id: record.id, net: record.netMonthly, expected: Math.round(netMonthly(record.grossMonthly)) });
     record.netMonthly = null;
   }
-  record.postTitle = redactAgeGender(record.postTitle);
-  record.jobTitle = redactAgeGender(record.jobTitle);
-  record.notes = redactAgeGender(record.notes);
-  record.notesDe = record.notesDe && redactAgeGender(record.notesDe);
-  record.evidence = record.evidence.map(redactAgeGender);
+  record.postTitle = redactPersonal(record.postTitle);
+  record.jobTitle = redactPersonal(record.jobTitle);
+  record.notes = redactPersonal(record.notes);
+  record.notesDe = record.notesDe && redactPersonal(record.notesDe);
+  record.evidence = record.evidence.map(redactPersonal);
   // The permalink's slug repeats the title (with its age/gender tag); Reddit redirects the short form.
   record.sourceUrl = `https://www.reddit.com/r/GehaltAT/comments/${record.postId}/`;
 }

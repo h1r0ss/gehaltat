@@ -329,7 +329,7 @@ export const en = {
 
   'methodology.heading': 'Methodology and caveats',
   'methodology.collectionTitle': 'Collection',
-  'methodology.collectionBody': 'Public posts from r/GehaltAT and their comments are retrieved via the Arctic Shift Reddit archive (date at the top of the page). Only publicly visible content is used. Usernames are not stored; age and gender markers in post titles and notes are removed before publication, and source links do not contain the title.',
+  'methodology.collectionBody': 'Public posts from r/GehaltAT and their comments are retrieved via the Arctic Shift Reddit archive (date at the top of the page). Only publicly visible content is used. Usernames are not stored; details of age, gender and family in post titles and notes are removed before publication, and source links do not contain the title.',
   'methodology.imagesTitle': 'Payslip images',
   'methodology.imagesBody':
     'Images attached to posts, usually payslips, are downloaded only temporarily for extraction and a local OCR pass. They are never stored long-term or published.',

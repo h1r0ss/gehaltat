@@ -326,7 +326,7 @@ export const de = {
 
   'methodology.heading': 'Methodik und Einschränkungen',
   'methodology.collectionTitle': 'Erhebung',
-  'methodology.collectionBody': 'Öffentliche Beiträge aus r/GehaltAT und die zugehörigen Kommentare werden über das Reddit-Archiv Arctic Shift abgerufen (Stand oben auf der Seite). Verwendet werden nur öffentlich sichtbare Inhalte. Benutzernamen werden nicht gespeichert; Alters- und Geschlechtsangaben aus Beitragstiteln und Anmerkungen werden vor der Veröffentlichung entfernt, und die Quellenlinks enthalten den Titel nicht.',
+  'methodology.collectionBody': 'Öffentliche Beiträge aus r/GehaltAT und die zugehörigen Kommentare werden über das Reddit-Archiv Arctic Shift abgerufen (Stand oben auf der Seite). Verwendet werden nur öffentlich sichtbare Inhalte. Benutzernamen werden nicht gespeichert; Angaben zu Alter, Geschlecht und Familie aus Beitragstiteln und Anmerkungen werden vor der Veröffentlichung entfernt, und die Quellenlinks enthalten den Titel nicht.',
   'methodology.imagesTitle': 'Lohnzettel-Bilder',
   'methodology.imagesBody':
     'Bilder, die Beiträgen angehängt sind, meist Lohnzettel, werden nur vorübergehend für die Extraktion und einen lokalen OCR-Durchlauf heruntergeladen. Sie werden nie dauerhaft gespeichert oder veröffentlicht.',

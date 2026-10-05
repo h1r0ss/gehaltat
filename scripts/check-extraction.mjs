@@ -76,6 +76,7 @@ for (const { value: row, line } of rows) {
   }
   if (row.paymentsPerYear !== null && row.paymentsPerYear !== 12 && row.paymentsPerYear !== 14) problems.push(`${at}: paymentsPerYear must be 12, 14 or null`);
   if (typeof row.confidence !== 'number' || row.confidence < 0 || row.confidence > 1) problems.push(`${at}: confidence must be 0..1`);
+  else if (row.confidence < 0.5) problems.push(`${at}: confidence ${row.confidence} is below 0.5; write a skip line instead`);
   if (!FIGURES.slice(0, 4).some((field) => typeof row[field] === 'number')) problems.push(`${at}: no salary figure; use a skip line instead`);
 
   const imageCount = Number(block.match(/\| images: (\d+)/)?.[1] ?? 0);

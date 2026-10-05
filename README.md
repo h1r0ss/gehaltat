@@ -45,7 +45,7 @@ Steps 1–5 are incremental: re-runs skip posts, images and shards that were alr
 ## Data handling
 
 - No usernames or author fields are stored. The only author signal is whether a comment is by the original poster.
-- The published dataset drops age and gender markers ("M27", "(w, 31)", "age 35") from post titles, job titles, notes and evidence (`scripts/lib/redact.mjs`), links to posts without the title slug, and counts a salary posted twice (repost or cross-post within three days) only once. `npm run qa` flags family, health, age or gender details left in notes.
+- The published dataset drops age and gender markers ("M27", "(w, 31)", "age 35", "27-jähriger Mann") and family details ("Familienbonus", "Karenz") from post titles, job titles, notes in both languages and evidence (`scripts/lib/redact.mjs`), links to posts without the title slug, and counts a salary posted twice (repost or cross-post within three days) only once. `npm run qa` flags family, health, age or gender details left in any of these fields.
 - Images (payslips) are downloaded only for extraction and deleted afterwards (`npm run purge-images`). IBAN and social-security-number patterns are redacted from OCR text. `data/images/` and `data/raw/ocr.jsonl` stay local (gitignored).
 - The published dataset contains extracted figures, job context and short numeric evidence snippets only.
 - Before any public deployment, check Reddit's data/API terms and GDPR obligations (e.g. a lawful basis for processing the posts, and handling of removal requests).

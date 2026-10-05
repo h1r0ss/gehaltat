@@ -1,7 +1,7 @@
 {
   "comment": "QA flags checked by hand against the source and kept as they are; npm run qa leaves them out so only new findings show. Key: record id, then check name and the reason.",
   "records": {
-    "1vv5jzl": { "label": "payslip OCR merges columns; gross 3,474.75 and payout 2,515.65 fit a 30h month" },
+    "1vv5jzl": { "label": "payslip OCR merges columns; gross 3,474.75 and payout 2,515.65 fit a 30h month", "privacy": "\"Kinder- und Jugend-WG\" is the workplace (residential youth care), not a family detail" },
     "1szoyj4": { "label": "civil-servant payslip layout; net 3,031.18 against gross 4,542.21 is plausible" },
     "1sl5gih": { "label": "civil-servant payslip layout; net 2,776.18 against gross 3,979.84 is plausible" },
     "1sgjcjg": { "label": "record removed in QA review" },

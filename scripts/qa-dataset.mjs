@@ -154,11 +154,19 @@ const PII = [
   [/(?:straße|strasse|gasse|platz|weg)\s+\d+/i, 'street address'],
   [/krankenstand|krankheit|krank geschrieben|krankengeld|\bsick|illness|diagnos|schwanger|pregnan|mutterschutz|maternity/i, 'health-related'],
   [/familienbonus|\bfamily|familienplanung|\bkinder(?!garten)\w*|\bkids?\b|children|\bchild(?!hood)|parental|elternteilzeit|elternkarenz|\bkarenz|husband|\bwife\b|ehemann|ehefrau|spouse|verheiratet|married|divorc|geschieden|alleinerzieh/i, 'family circumstance'],
-  [/\b(?:female|male|weiblich|männlich)\b|\b(?:age|alter)\s*~?\d{2}\b|\b[MWF]\s?\d{2}\b|\b\d{2}\s?[MWF]\b/, 'age or gender'],
+  // (an amount in millions such as "~25M revenue" or "20M EUR" is not a marker)
+  [/\b(?:female|male|weiblich|männlich)\b|\b(?:age|alter)\s*~?\d{2}\b|(?<![€$~]\s?|[.,\d])\b(?:[MWF]\s?\d{2}|\d{2}\s?[MWF])\b(?!\s*(?:€|EUR|Euro|USD|\$|revenue|Umsatz|turnover|budget|annual))/, 'age or gender'],
+  // German translations and free-text phrasings: "27-jähriger Mann", "ein 28-Jähriger", "25 Jahre alt",
+  // "Anfang 30", "28-year-old", "early 30s", "(Mann)", "laut Verfasserin".
+  [/\b\d{2}\s?-\s?[jJ]ährig|\b\d{2}\s?Jahre\s+alt\b|\b(?:Anfang|Mitte|Ende)\s+[2-6]0\b(?!\s*(?:Std|h\b|Stunden|Uhr|%|€))|\b\d{2}[\s-]?(?:years?|yrs?)[\s-]?old\b|\b(?:early|mid|late)[\s-]?[2-6]0s\b|[([]\s*(?:Mann|Frau|man|woman)\s*[)\]]|\b(?:Verfasserin|Posterin|Autorin)\b/i, 'age or gender'],
 ];
+// The English notes must not reveal the poster's gender through pronouns either ("she is underpaid").
+const PRONOUN = /\b(?:she|her|hers|herself|he|his|him|himself)\b/i;
+// Everything the site publishes about a record: titles, notes in both languages, evidence.
 for (const r of records) {
-  const text = [r.notes, ...r.evidence].join(' | ');
+  const text = [r.postTitle, r.jobTitle, r.notes, r.notesDe, ...r.evidence].filter(Boolean).join(' | ');
   for (const [pattern, label] of PII) if (pattern.test(text)) flag(r, 'privacy', `${label}: "${text.match(pattern)[0]}"`);
+  if (r.notes && PRONOUN.test(r.notes)) flag(r, 'privacy', `gendered pronoun in notes: "${r.notes.match(PRONOUN)[0]}"`);
 }
 
 // 7. Coverage and classification statistics.
