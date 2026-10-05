@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T21:01:13.346Z",
+  "generatedAt": "2026-10-05T21:30:45.003Z",
   "subreddit": "GehaltAT",
   "roleFamilies": [
     {
@@ -716,14 +716,142 @@
     }
   ],
   "coverage": {
-    "postsCollected": 808,
-    "commentsCollected": 22069,
-    "postsWithSalary": 525,
-    "records": 530,
+    "postsCollected": 816,
+    "commentsCollected": 22357,
+    "postsWithSalary": 526,
+    "records": 531,
     "firstPostDate": "2026-02-10",
-    "lastPostDate": "2026-10-02"
+    "lastPostDate": "2026-10-05"
   },
   "records": [
+    {
+      "id": "1wye3e7",
+      "postId": "1wye3e7",
+      "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1wye3e7/",
+      "postDate": "2026-10-05",
+      "postTitle": "Bilanzbuchhaltungskanzlei | Backoffice | 40h | HAK Matura",
+      "flair": null,
+      "upvotes": 2,
+      "numComments": 0,
+      "jobTitle": "Backoffice",
+      "standardizedTitle": "Back Office Specialist",
+      "roleFamily": "customer-service-back-office",
+      "industry": "Consulting & Professional Services",
+      "seniority": "junior",
+      "experienceYears": 0,
+      "region": null,
+      "hoursPerWeek": 40,
+      "employmentType": "employee",
+      "salaryKind": "current",
+      "paymentsPerYear": 14,
+      "grossMonthly": 2136.19,
+      "grossAnnual": 29907,
+      "netMonthly": 1715.47,
+      "hourlyGross": null,
+      "bonusAnnual": null,
+      "allIn": null,
+      "collectiveAgreement": null,
+      "salarySource": "image",
+      "derived": [
+        "paymentsPerYear",
+        "grossAnnual"
+      ],
+      "figuresVerified": true,
+      "evidence": [
+        "BRUTTO 2 136,19",
+        "NETTO 1715,47"
+      ],
+      "confidence": 0.9,
+      "notes": "Entry-level back office at an accounting firm (reception, phones, client data entry; no bookkeeping), employed Jul-Sep 2026 only. Clean month, salary line only.",
+      "notesDe": "Einstiegsjob im Backoffice einer Bilanzbuchhaltungskanzlei (Empfang, Telefon, Erfassung von Kundendaten; keine Buchhaltung), nur von Juli bis September 2026 angestellt. Sauberer Monat, nur die Gehaltszeile.",
+      "collectiveAgreementGroup": null
+    },
+    {
+      "id": "1wyih2p",
+      "postId": "1wyih2p",
+      "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1wyih2p/",
+      "postDate": "2026-10-05",
+      "postTitle": "System Engineer/Architect, 38H+ / Tirol",
+      "flair": null,
+      "upvotes": 1,
+      "numComments": 0,
+      "jobTitle": "System Engineer/Architect",
+      "standardizedTitle": "Systems Engineer",
+      "roleFamily": "it-infrastructure-operations",
+      "industry": "IT & Software",
+      "seniority": "senior",
+      "experienceYears": 16,
+      "region": "Tyrol",
+      "hoursPerWeek": 38,
+      "employmentType": "employee",
+      "salaryKind": "current",
+      "paymentsPerYear": 14,
+      "grossMonthly": 6749,
+      "grossAnnual": 94486,
+      "netMonthly": 4241.37,
+      "hourlyGross": null,
+      "bonusAnnual": null,
+      "allIn": null,
+      "collectiveAgreement": "IT-KV",
+      "salarySource": "image",
+      "derived": [
+        "paymentsPerYear",
+        "grossAnnual"
+      ],
+      "figuresVerified": true,
+      "evidence": [
+        "114 Ist-Gehalt 6.749,00",
+        "[image] Gesamtbrutto 6.749,00",
+        "[image] Gesetzliches Netto 4.241,37"
+      ],
+      "confidence": 0.85,
+      "notes": "Managed service provider, 16 years with employer, now a purely technical role. Single Ist-Gehalt line; payslip lists a §68(2) tax-free overtime portion. Title says 38h+.",
+      "notesDe": "Managed-Service-Provider, 16 Jahre beim Arbeitgeber, inzwischen eine rein technische Rolle. Eine einzige Ist-Gehalt-Zeile; der Lohnzettel weist einen steuerfreien Überstundenanteil nach § 68 Abs. 2 aus. Laut Titel 38+ Std.",
+      "collectiveAgreementGroup": null
+    },
+    {
+      "id": "1wxednx",
+      "postId": "1wxednx",
+      "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1wxednx/",
+      "postDate": "2026-10-04",
+      "postTitle": "CAD-Techniker (Elektro & HKLS)",
+      "flair": null,
+      "upvotes": 1,
+      "numComments": 0,
+      "jobTitle": "CAD-Techniker (Elektro & HKLS)",
+      "standardizedTitle": "CAD Technician",
+      "roleFamily": "technical-design-drafting",
+      "industry": "Construction & Trades",
+      "seniority": "junior",
+      "experienceYears": 1.5,
+      "region": "Upper Austria",
+      "hoursPerWeek": null,
+      "employmentType": "employee",
+      "salaryKind": "current",
+      "paymentsPerYear": 14,
+      "grossMonthly": 2700.3,
+      "grossAnnual": 37804,
+      "netMonthly": 2002.2,
+      "hourlyGross": null,
+      "bonusAnnual": null,
+      "allIn": null,
+      "collectiveAgreement": null,
+      "salarySource": "image",
+      "derived": [
+        "paymentsPerYear",
+        "grossAnnual"
+      ],
+      "figuresVerified": true,
+      "evidence": [
+        "Brutto 2.700,30",
+        "Netto 2.002,20",
+        "bin ich jetzt bei ca. 2.000 € netto"
+      ],
+      "confidence": 0.85,
+      "notes": "Engineering office, CAD planning for electrical and HVAC (HKLS) to project lead specs. Clean month, salary line only. Started at 1,750 net; company e-car expected at year end.",
+      "notesDe": "Ingenieurbüro, CAD-Planung für Elektro und HKLS nach Vorgaben der Projektleitung. Sauberer Monat, nur die Gehaltszeile. Einstieg mit 1.750 € netto; Firmen-E-Auto zum Jahresende in Aussicht.",
+      "collectiveAgreementGroup": null
+    },
     {
       "id": "1wvpop9",
       "postId": "1wvpop9",
@@ -731,8 +859,8 @@
       "postDate": "2026-10-02",
       "postTitle": "Gehalt angemessen ?Mechatroniker Industrie Sondermaschinen in Ö",
       "flair": null,
-      "upvotes": 1,
-      "numComments": 0,
+      "upvotes": 3,
+      "numComments": 3,
       "jobTitle": "Mechatroniker",
       "standardizedTitle": "Mechatronics Technician",
       "roleFamily": "mechatronics-industrial-technicians",
@@ -814,8 +942,8 @@
       "postDate": "2026-10-01",
       "postTitle": "Zerspanungstechniker/38,5h im 3-Schichtbetrieb",
       "flair": null,
-      "upvotes": 1,
-      "numComments": 0,
+      "upvotes": 6,
+      "numComments": 6,
       "jobTitle": "Zerspanungstechniker",
       "standardizedTitle": "CNC Machinist",
       "roleFamily": "mechatronics-industrial-technicians",
@@ -3177,8 +3305,8 @@
         "65.000€ brutto, All-In"
       ],
       "confidence": 0.9,
-      "notes": "Bank job offer for 28-year-old with law degree and 2 years finance experience including trainee program",
-      "notesDe": "Jobangebot einer Bank für einen 28-Jährigen mit Jurastudium und 2 Jahren Erfahrung im Finanzbereich, inklusive Traineeprogramm.",
+      "notes": "Bank job offer; law degree and 2 years finance experience including trainee program",
+      "notesDe": "Jobangebot einer Bank; Jurastudium und 2 Jahre Erfahrung im Finanzbereich, inklusive Traineeprogramm.",
       "collectiveAgreementGroup": null
     },
     {
@@ -3678,8 +3806,8 @@
         "targeted bonus of 5.3k"
       ],
       "confidence": 0.85,
-      "notes": "with BSc Software Engineering; strong performer earning above typical for experience; quarterly bonuses and on-call compensation available",
-      "notesDe": "27-jähriger Mann mit BSc Software Engineering; starke Leistung, verdient über dem für die Erfahrung Üblichen; quartalsweise Boni und Bereitschaftsvergütung vorhanden.",
+      "notes": "With BSc Software Engineering; strong performer earning above typical for experience; quarterly bonuses and on-call compensation available",
+      "notesDe": "BSc Software Engineering; starke Leistung, verdient über dem für die Erfahrung Üblichen; quartalsweise Boni und Bereitschaftsvergütung vorhanden.",
       "collectiveAgreementGroup": null
     },
     {
@@ -3929,8 +4057,8 @@
         "nach den Schulungen ein Gehalt von 3800 €"
       ],
       "confidence": 0.85,
-      "notes": "apprentice electrician transitioning to heat pump service technician; 3400€ initial, 3800€ post-training; field-based work; Handels KV with additional allowances",
-      "notesDe": "22-jähriger Mann, Elektrolehrling im Übergang zum Wärmepumpen-Servicetechniker; anfangs 3.400 €, nach der Ausbildung 3.800 €; Außendiensttätigkeit; Handels-KV mit zusätzlichen Zulagen.",
+      "notes": "Apprentice electrician transitioning to heat pump service technician; 3400€ initial, 3800€ post-training; field-based work; Handels KV with additional allowances",
+      "notesDe": "Elektrolehrling im Übergang zum Wärmepumpen-Servicetechniker; anfangs 3.400 €, nach der Ausbildung 3.800 €; Außendiensttätigkeit; Handels-KV mit zusätzlichen Zulagen.",
       "collectiveAgreementGroup": null
     },
     {
@@ -4304,8 +4432,8 @@
         "55k"
       ],
       "confidence": 0.8,
-      "notes": "26-year-old M.Sc. Data Science, non-German speaker, 7 months at corporate in Styria; entry-level due to limited options; 1 year internship prior experience",
-      "notesDe": "26-jährig, M.Sc. Data Science, spricht kein Deutsch, seit 7 Monaten in einem Konzern in der Steiermark; Einstiegslevel mangels Alternativen; davor 1 Jahr Praktikumserfahrung.",
+      "notes": "M.Sc. Data Science, non-German speaker, 7 months at corporate in Styria; entry-level due to limited options; 1 year internship prior experience",
+      "notesDe": "M.Sc. Data Science, spricht kein Deutsch, seit 7 Monaten in einem Konzern in der Steiermark; Einstiegslevel mangels Alternativen; davor 1 Jahr Praktikumserfahrung.",
       "collectiveAgreementGroup": null
     },
     {
@@ -4759,7 +4887,7 @@
       ],
       "confidence": 0.8,
       "notes": "ÖBB railway dispatcher. Current net; outlook 3000-3400 netto in 1-2 years. Considering study options.",
-      "notesDe": "ÖBB-Fahrdienstleiter (25-jähriger Mann). Aktuelles Netto; Ausblick 3.000–3.400 € netto in 1–2 Jahren. Überlegt Studienoptionen.",
+      "notesDe": "ÖBB-Fahrdienstleiter. Aktuelles Netto; Ausblick 3.000–3.400 € netto in 1–2 Jahren. Überlegt Studienoptionen.",
       "collectiveAgreementGroup": null
     },
     {
@@ -5100,7 +5228,7 @@
       "postId": "1ve5sfd",
       "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1ve5sfd/",
       "postDate": "2026-08-03",
-      "postTitle": "Projektleiter Energiebereich (26) 1 Jahr Berufserfahrung Dipl.-Ing. und davor HTL (40h+ all in) 4200 brutto 2830 netto",
+      "postTitle": "Projektleiter Energiebereich 1 Jahr Berufserfahrung Dipl.-Ing. und davor HTL (40h+ all in) 4200 brutto 2830 netto",
       "flair": null,
       "upvotes": 11,
       "numComments": 16,
@@ -5218,7 +5346,7 @@
       ],
       "confidence": 0.9,
       "notes": "Design engineer 1.5 years in role. Considering switch to process engineer with travel. No prior raise.",
-      "notesDe": "Konstrukteur (24-jähriger Mann), 1,5 Jahre in der Rolle. Überlegt einen Wechsel zum Verfahrenstechniker mit Reisetätigkeit. Bisher keine Gehaltserhöhung.",
+      "notesDe": "Konstrukteur, 1,5 Jahre in der Rolle. Überlegt einen Wechsel zum Verfahrenstechniker mit Reisetätigkeit. Bisher keine Gehaltserhöhung.",
       "collectiveAgreementGroup": null
     },
     {
@@ -5549,8 +5677,8 @@
         "ich verdiene aktuell ca. 4350€ brutto"
       ],
       "confidence": 0.9,
-      "notes": "Plant construction. 8 years at firm, 4 as PM. Currently leads 2 independent projects: EUR and EUR. Flex time basis, no OT allowance, no company car. Stress periods 45+ hours/week.",
-      "notesDe": "Anlagenbau (29-jähriger Mann). 8 Jahre in der Firma, davon 4 als Projektleiter. Leitet aktuell 2 eigenständige Projekte: 20 Mio. € und 13 Mio. €. Gleitzeitbasis, keine Überstundenzulage, kein Firmenwagen. In stressigen Phasen 45+ Std./Woche.",
+      "notes": "Plant construction. 8 years at firm, 4 as PM. Currently leads 2 independent projects: 20M EUR and 13M EUR. Flex time basis, no OT allowance, no company car. Stress periods 45+ hours/week.",
+      "notesDe": "Anlagenbau. 8 Jahre in der Firma, davon 4 als Projektleiter. Leitet aktuell 2 eigenständige Projekte: 20 Mio. € und 13 Mio. €. Gleitzeitbasis, keine Überstundenzulage, kein Firmenwagen. In stressigen Phasen 45+ Std./Woche.",
       "collectiveAgreementGroup": null
     },
     {
@@ -5673,8 +5801,8 @@
         "[image] Nettobezug 2.93154"
       ],
       "confidence": 0.85,
-      "notes": "R&D engineer (acoustic measurement technology) under retail KV per OP's own comment; commenters say she is underpaid vs. chemical-industry R&D scale.",
-      "notesDe": "F&E-Ingenieurin (Akustik-Messtechnik), laut eigenem Kommentar des Verfassers unter dem Handels-KV eingestuft; Kommentatoren meinen, sie sei im Vergleich zum Gehaltsschema der Chemieindustrie-F&E unterbezahlt.",
+      "notes": "R&D engineer (acoustic measurement technology) under retail KV per OP's own comment; commenters say OP is underpaid vs. chemical-industry R&D scale.",
+      "notesDe": "F&E im Bereich Akustik-Messtechnik, laut eigenem Kommentar unter dem Handels-KV eingestuft; Kommentatoren halten die Bezahlung im Vergleich zum Gehaltsschema der Chemieindustrie-F&E für zu niedrig.",
       "collectiveAgreementGroup": null
     },
     {
@@ -5715,7 +5843,7 @@
       ],
       "confidence": 0.85,
       "notes": "Master's degree. 6 years at current employer. Manages 50-100M EUR industrial projects. Trust and responsibility high. 5-15h OT/month. No all-in. Peers with longer tenure earn 10-20k more.",
-      "notesDe": "31-jähriger Mann, Master-Abschluss. 6 Jahre beim aktuellen Arbeitgeber. Verantwortet Industrieprojekte im Bereich 50–100 Mio. €. Hohes Vertrauen und hohe Verantwortung. 5–15 Std. Überstunden/Monat. Kein All-In. Kollegen mit längerer Betriebszugehörigkeit verdienen 10.000–20.000 € mehr.",
+      "notesDe": "Master-Abschluss. 6 Jahre beim aktuellen Arbeitgeber. Verantwortet Industrieprojekte im Bereich 50–100 Mio. €. Hohes Vertrauen und hohe Verantwortung. 5–15 Std. Überstunden/Monat. Kein All-In. Kollegen mit längerer Betriebszugehörigkeit verdienen 10.000–20.000 € mehr.",
       "collectiveAgreementGroup": null
     },
     {
@@ -5756,7 +5884,7 @@
       ],
       "confidence": 0.9,
       "notes": "Premium furniture sales. 3 years at firm, apprenticeship background. 30-45h/week flex, 3 days field, 2 WFH. E-car, unlimited expenses. ~7-15% bonus yearly realistic. Handels-KV.",
-      "notesDe": "Verkauf von Premiummöbeln (33-jähriger Mann). 3 Jahre in der Firma, Hintergrund als Lehrabsolvent. 30–45 Std./Woche flexibel, 3 Tage Außendienst, 2 Tage Homeoffice. E-Auto, unbegrenzte Spesen. Realistisch ca. 7–15% Jahresbonus. Handels-KV.",
+      "notesDe": "Verkauf von Premiummöbeln. 3 Jahre in der Firma, Hintergrund als Lehrabsolvent. 30–45 Std./Woche flexibel, 3 Tage Außendienst, 2 Tage Homeoffice. E-Auto, unbegrenzte Spesen. Realistisch ca. 7–15% Jahresbonus. Handels-KV.",
       "collectiveAgreementGroup": null
     },
     {
@@ -5839,8 +5967,8 @@
         "Net: \\~2.6K"
       ],
       "confidence": 0.85,
-      "notes": "no degree (dropped out), ~3 years career. Market described as 'quite horrible'.",
-      "notesDe": "kein Abschluss (Studienabbruch), ca. 3 Jahre Berufserfahrung. Arbeitsmarkt als 'ziemlich furchtbar' beschrieben.",
+      "notes": "No degree (dropped out), ~3 years career. Market described as 'quite horrible'.",
+      "notesDe": "Kein Abschluss (Studienabbruch), ca. 3 Jahre Berufserfahrung. Arbeitsmarkt als 'ziemlich furchtbar' beschrieben.",
       "collectiveAgreementGroup": null
     },
     {
@@ -5922,7 +6050,7 @@
       ],
       "confidence": 0.8,
       "notes": "Financial sector. Net only, no gross provided.",
-      "notesDe": "Finanzbranche (28-jähriger Mann). Nur Netto, kein Brutto angegeben.",
+      "notesDe": "Finanzbranche. Nur Netto, kein Brutto angegeben.",
       "collectiveAgreementGroup": null
     },
     {
@@ -5963,7 +6091,7 @@
       ],
       "confidence": 0.9,
       "notes": "Mag. phil (diploma), now completing BSc in renewable energy. Engineering bureau. Junior position despite 25 years work experience (17 in PM, other branch). Considering larger salary after degree.",
-      "notesDe": "47-jährige Frau, Mag. phil. (Diplomstudium), schließt derzeit einen BSc in erneuerbarer Energie ab. Ingenieurbüro. Junior-Position trotz 25 Jahren Berufserfahrung (davon 17 im Projektmanagement in einer anderen Branche). Erwartet nach dem Abschluss ein höheres Gehalt.",
+      "notesDe": "Mag. phil. (Diplomstudium), schließt derzeit einen BSc in erneuerbarer Energie ab. Ingenieurbüro. Junior-Position trotz 25 Jahren Berufserfahrung (davon 17 im Projektmanagement in einer anderen Branche). Erwartet nach dem Abschluss ein höheres Gehalt.",
       "collectiveAgreementGroup": null
     },
     {
@@ -6170,8 +6298,8 @@
         "Ich verdiene 4.067 € brutto im Monat"
       ],
       "confidence": 0.9,
-      "notes": "Early 30s, comfortable position: good team, 2 days WFH, short commute, completes work in ~70% of time. Comparing with PM offer.",
-      "notesDe": "Anfang 30, komfortable Position: gutes Team, 2 Tage Homeoffice, kurzer Arbeitsweg, erledigt die Arbeit in ca. 70% der Zeit. Vergleich mit einem Angebot als Projektmanager.",
+      "notes": "Comfortable position: good team, 2 days WFH, short commute, completes work in ~70% of time. Comparing with PM offer.",
+      "notesDe": "Komfortable Position: gutes Team, 2 Tage Homeoffice, kurzer Arbeitsweg, erledigt die Arbeit in ca. 70% der Zeit. Vergleich mit einem Angebot als Projektmanager.",
       "collectiveAgreementGroup": null
     },
     {
@@ -6334,8 +6462,8 @@
         "€ 2610,44 netto"
       ],
       "confidence": 0.9,
-      "notes": "apprenticeship (Lehrabschluss) in app development. Finished 15 March 2025, civil service Sept 2025 - June 2026, returned to training company 1 July 2026. <1 year effective experience. 14 payments.",
-      "notesDe": "21-jähriger Mann, Lehrabschluss in der Anwendungsentwicklung. Abschluss am 15. März 2025, Zivildienst September 2025 bis Juni 2026, Rückkehr zum Ausbildungsbetrieb am 1. Juli 2026. Unter 1 Jahr tatsächliche Erfahrung. 14 Gehälter.",
+      "notes": "Apprenticeship (Lehrabschluss) in app development. Finished 15 March 2025, civil service Sept 2025 - June 2026, returned to training company 1 July 2026. <1 year effective experience. 14 payments.",
+      "notesDe": "Lehrabschluss in der Anwendungsentwicklung. Abschluss am 15. März 2025, Zivildienst September 2025 bis Juni 2026, Rückkehr zum Ausbildungsbetrieb am 1. Juli 2026. Unter 1 Jahr tatsächliche Erfahrung. 14 Gehälter.",
       "collectiveAgreementGroup": null
     },
     {
@@ -6584,8 +6712,8 @@
         "[image] Netto 1.021,04"
       ],
       "confidence": 0.65,
-      "notes": "Bar staff ( when hired, hotel collective training). Partial month (26 days, started 05.06). Training: Hotel manager, chef, server. Unhappy with pay relative to workload; seeking new position.",
-      "notesDe": "Barpersonal (17-jährige Frau bei Einstellung, Ausbildung im Hotel-Kollektivvertrag). Teilmonat (26 Tage, Beginn 05.06.). Ausbildung: Hotelmanagement, Koch, Service. Unzufrieden mit der Bezahlung im Verhältnis zur Arbeitsbelastung; sucht eine neue Stelle.",
+      "notes": "Bar staff (hotel collective training). Partial month (26 days, started 05.06). Training: Hotel manager, chef, server. Unhappy with pay relative to workload; seeking new position.",
+      "notesDe": "Barpersonal (Ausbildung im Hotel-Kollektivvertrag). Teilmonat (26 Tage, Beginn 05.06.). Ausbildung: Hotelmanagement, Koch, Service. Unzufrieden mit der Bezahlung im Verhältnis zur Arbeitsbelastung; sucht eine neue Stelle.",
       "collectiveAgreementGroup": null
     },
     {
@@ -6625,8 +6753,8 @@
         "am Limit angelangt bei 85k"
       ],
       "confidence": 0.8,
-      "notes": "technical Master's degree, highly specialized. Seeking career path to 120k+ leadership role. Aspirational salary goal. Current at ceiling for technical track.",
-      "notesDe": "31-jähriger Mann, technischer Master-Abschluss, hochspezialisiert. Sucht einen Karriereweg zu einer Führungsrolle mit 120.000 €+. Angestrebtes Gehaltsziel. Aktuell am Gehaltsdeckel der technischen Laufbahn.",
+      "notes": "Technical Master's degree, highly specialized. Seeking career path to 120k+ leadership role. Aspirational salary goal. Current at ceiling for technical track.",
+      "notesDe": "Technischer Master-Abschluss, hochspezialisiert. Sucht einen Karriereweg zu einer Führungsrolle mit 120.000 €+. Angestrebtes Gehaltsziel. Aktuell am Gehaltsdeckel der technischen Laufbahn.",
       "collectiveAgreementGroup": null
     },
     {
@@ -6830,8 +6958,8 @@
         "51.000€ Brutto Jahresgehalt"
       ],
       "confidence": 0.9,
-      "notes": "bank employee in Vorarlberg, Austria. 14 payments assumed. Switching to Liechtenstein (FL) private bank.",
-      "notesDe": "22-jähriger Mann, Bankangestellter in Vorarlberg, Österreich. 14 Gehälter angenommen. Wechselt zu einer liechtensteinischen (FL) Privatbank.",
+      "notes": "Bank employee in Vorarlberg, Austria. 14 payments assumed. Switching to Liechtenstein (FL) private bank.",
+      "notesDe": "Bankangestellter in Vorarlberg, Österreich. 14 Gehälter angenommen. Wechselt zu einer liechtensteinischen (FL) Privatbank.",
       "collectiveAgreementGroup": null
     },
     {
@@ -6957,7 +7085,7 @@
       ],
       "confidence": 0.65,
       "notes": "HTL grad, entering TU. Intern May-Sept 2026. Contract 1600€; paid 1700€ (1200 difference in May, then correct). KV ST1 intern rate 1552€ minimum. Payroll discrepancy under investigation.",
-      "notesDe": "20-jähriger Mann. HTL-Absolvent, beginnt an der TU. Praktikum Mai bis September 2026. Vertrag über 1.600 €; ausbezahlt wurden 1.700 € (im Mai 1.200 € Differenz, danach korrekt). KV-Mindestsatz ST1 für Praktikanten 1.552 €. Abweichung in der Lohnverrechnung wird geprüft.",
+      "notesDe": "HTL-Absolvent, beginnt an der TU. Praktikum Mai bis September 2026. Vertrag über 1.600 €; ausbezahlt wurden 1.700 € (im Mai 1.200 € Differenz, danach korrekt). KV-Mindestsatz ST1 für Praktikanten 1.552 €. Abweichung in der Lohnverrechnung wird geprüft.",
       "collectiveAgreementGroup": null
     },
     {
@@ -6997,8 +7125,8 @@
         "[image] Summe der Bezigs 4.700,00"
       ],
       "confidence": 0.8,
-      "notes": "IT Systems Engineer Expert (network/security), food industry. no higher education (apprenticeship only). Comments praise salary for age/education profile.",
-      "notesDe": "IT Systems Engineer Expert (Netzwerk/Security), Lebensmittelbranche. keine höhere Ausbildung (nur Lehre). Kommentare loben das Gehalt für dieses Alters- und Ausbildungsprofil.",
+      "notes": "IT Systems Engineer Expert (network/security), food industry. No higher education (apprenticeship only). Comments praise salary for age/education profile.",
+      "notesDe": "IT Systems Engineer Expert (Netzwerk/Security), Lebensmittelbranche. Keine höhere Ausbildung (nur Lehre). Kommentare loben das Gehalt für dieses Alters- und Ausbildungsprofil.",
       "collectiveAgreementGroup": null
     },
     {
@@ -8326,7 +8454,7 @@
         "[image] Netto 2.505,07"
       ],
       "confidence": 0.85,
-      "notes": "entry started 22.05.2023 (about 1 year). Second payslip shown (November 2025) with overtime: base 1940.01 with extensive UStd items, shows unclean month.",
+      "notes": "Entry started 22.05.2023 (about 1 year). Second payslip shown (November 2025) with overtime: base 1940.01 with extensive UStd items, shows unclean month.",
       "notesDe": "Einstieg am 22.05.2023 (ca. 1 Jahr). Gezeigt wird ein zweiter Lohnzettel (November 2025) mit Überstunden: Basis 1.940,01 € mit umfangreichen Überstundenposten, zeigt einen unsauberen Monat.",
       "collectiveAgreementGroup": null
     },
@@ -8448,8 +8576,8 @@
         "[image] Netto 3.543,02"
       ],
       "confidence": 0.9,
-      "notes": "learned and promoted internally since 2002 (24 years total). Führungskraft (leadership role) in industrial facility.",
-      "notesDe": "38-jähriger Mann, seit 2002 in der Firma gelernt und intern aufgestiegen (insgesamt 24 Jahre). Führungskraft in einem Industriebetrieb.",
+      "notes": "Learned and promoted internally since 2002 (24 years total). Führungskraft (leadership role) in industrial facility.",
+      "notesDe": "Seit 2002 in der Firma gelernt und intern aufgestiegen (insgesamt 24 Jahre). Führungskraft in einem Industriebetrieb.",
       "collectiveAgreementGroup": null
     },
     {
@@ -8697,8 +8825,8 @@
         "[image] Netto 2.700,00"
       ],
       "confidence": 0.9,
-      "notes": "second year after LAP. September 2026 raise to 3k net. 40 vacation days, 4-day week. Company vehicle for private use without sachbezug. Bonus, travel allowance, installation allowance.",
-      "notesDe": "zweites Jahr nach der Lehrabschlussprüfung (LAP). Erhöhung auf 3.000 € netto im September 2026. 40 Urlaubstage, 4-Tage-Woche. Firmenfahrzeug zur Privatnutzung ohne Sachbezug. Bonus, Fahrtkostenzulage, Montagezulage.",
+      "notes": "Second year after LAP. September 2026 raise to 3k net. 40 vacation days, 4-day week. Company vehicle for private use without sachbezug. Bonus, travel allowance, installation allowance.",
+      "notesDe": "Zweites Jahr nach der Lehrabschlussprüfung (LAP). Erhöhung auf 3.000 € netto im September 2026. 40 Urlaubstage, 4-Tage-Woche. Firmenfahrzeug zur Privatnutzung ohne Sachbezug. Bonus, Fahrtkostenzulage, Montagezulage.",
       "collectiveAgreementGroup": null
     },
     {
@@ -8779,8 +8907,8 @@
         "[image] Netto 2.757,09"
       ],
       "confidence": 0.65,
-      "notes": "no LAP. Apprenticeship never completed but extensive experience. Multiple overtime rates (50%, 100%), travel allowances, installation bonus, fixed standby. Approx 2450-2500 netto without overtime.",
-      "notesDe": "keine Lehrabschlussprüfung. Lehre nie abgeschlossen, aber umfangreiche Erfahrung. Mehrere Überstundensätze (50%, 100%), Fahrtkostenzulagen, Montageprämie, fixe Bereitschaft. Ca. 2.450–2.500 € netto ohne Überstunden.",
+      "notes": "No LAP. Apprenticeship never completed but extensive experience. Multiple overtime rates (50%, 100%), travel allowances, installation bonus, fixed standby. Approx 2450-2500 netto without overtime.",
+      "notesDe": "Keine Lehrabschlussprüfung. Lehre nie abgeschlossen, aber umfangreiche Erfahrung. Mehrere Überstundensätze (50%, 100%), Fahrtkostenzulagen, Montageprämie, fixe Bereitschaft. Ca. 2.450–2.500 € netto ohne Überstunden.",
       "collectiveAgreementGroup": null
     },
     {
@@ -8821,7 +8949,7 @@
         "[image] Netto 2.339,03"
       ],
       "confidence": 0.8,
-      "notes": "started Sept 2025 (6 months). Night work shifts 3-4 times/month. Multiple shift allowances (night, Sunday) included. Unclean but traceable base.",
+      "notes": "Started Sept 2025 (6 months). Night work shifts 3-4 times/month. Multiple shift allowances (night, Sunday) included. Unclean but traceable base.",
       "notesDe": "Beginn September 2025 (6 Monate). Nachtdienste 3–4 Mal im Monat. Mehrere Schichtzulagen (Nacht, Sonntag) enthalten. Unsauber, aber nachvollziehbare Basis.",
       "collectiveAgreementGroup": null
     },
@@ -8860,8 +8988,8 @@
         "[image] Netto 6.251,99"
       ],
       "confidence": 0.75,
-      "notes": "unclean payslip with sachbezug PKW, feiertagsentgelt, taggeld, night allowance, zero-rated 50% surcharge. Includes company vehicle. 50-60 hours/week typical, variable income. Base without allowances likely 3.3-4.3k net.",
-      "notesDe": "unsauberer Lohnzettel mit Sachbezug PKW, Feiertagsentgelt, Taggeld, Nachtzulage, steuerfreiem 50%-Zuschlag. Inklusive Firmenfahrzeug. Typischerweise 50–60 Std./Woche, variables Einkommen. Basis ohne Zulagen vermutlich 3.300–4.300 € netto.",
+      "notes": "Unclean payslip with sachbezug PKW, feiertagsentgelt, taggeld, night allowance, zero-rated 50% surcharge. Includes company vehicle. 50-60 hours/week typical, variable income. Base without allowances likely 3.3-4.3k net.",
+      "notesDe": "Unsauberer Lohnzettel mit Sachbezug PKW, Feiertagsentgelt, Taggeld, Nachtzulage, steuerfreiem 50%-Zuschlag. Inklusive Firmenfahrzeug. Typischerweise 50–60 Std./Woche, variables Einkommen. Basis ohne Zulagen vermutlich 3.300–4.300 € netto.",
       "collectiveAgreementGroup": null
     },
     {
@@ -8903,7 +9031,7 @@
       ],
       "confidence": 0.75,
       "notes": "10 years total (apprentice 2012-2016, work since 2016). Unclean payslip with holiday, overtimes (100% and others), culture/sports contributions, union/works council. Payslip OCR partially unclear.",
-      "notesDe": "insgesamt 10 Jahre (Lehre 2012–2016, berufstätig seit 2016). Unsauberer Lohnzettel mit Feiertagsentgelt, Überstunden (100% und weitere), Kultur-/Sportbeiträgen, Gewerkschaft/Betriebsrat. Lohnzettel per OCR teilweise unklar.",
+      "notesDe": "Insgesamt 10 Jahre (Lehre 2012–2016, berufstätig seit 2016). Unsauberer Lohnzettel mit Feiertagsentgelt, Überstunden (100% und weitere), Kultur-/Sportbeiträgen, Gewerkschaft/Betriebsrat. Lohnzettel per OCR teilweise unklar.",
       "collectiveAgreementGroup": null
     },
     {
@@ -8911,7 +9039,7 @@
       "postId": "1u1hub5",
       "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1u1hub5/",
       "postDate": "2026-06-09",
-      "postTitle": "Elektriker (2. Bildungsweg) Berufserfahrung ca. 5Jahre, 38,5h, ohne Üst ca 3045€Netto+166€ Familienbonusplus",
+      "postTitle": "Elektriker (2. Bildungsweg) Berufserfahrung ca. 5Jahre, 38,5h, ohne Üst ca 3045€Netto",
       "flair": null,
       "upvotes": 16,
       "numComments": 11,
@@ -8945,7 +9073,7 @@
       ],
       "confidence": 0.8,
       "notes": "5 years experience, 2nd career path (Zweiter Bildungsweg). Base 4.153,78 + competence allowance 499.29. Jobrad reduction applied. Extensive overtime shown (50%-100% rates). Approx 3045 netto without overtime.",
-      "notesDe": "30-jähriger Mann, 5 Jahre Erfahrung, zweiter Bildungsweg. Basis 4.153,78 € plus Kompetenzzulage 499,29 €. Jobrad-Abzug angewendet. Umfangreiche Überstunden ausgewiesen (50%–100% Zuschlag). Ca. 3.045 € netto ohne Überstunden.",
+      "notesDe": "5 Jahre Erfahrung, zweiter Bildungsweg. Basis 4.153,78 € plus Kompetenzzulage 499,29 €. Jobrad-Abzug angewendet. Umfangreiche Überstunden ausgewiesen (50%–100% Zuschlag). Ca. 3.045 € netto ohne Überstunden.",
       "collectiveAgreementGroup": null
     },
     {
@@ -9111,8 +9239,8 @@
         "Es sind im Durchschnitt 2350€ netto im Monat"
       ],
       "confidence": 0.85,
-      "notes": "apprenticeship started at 15 but discontinued at 18. Continued working as helfer with substantial skills. Classified as Group 6 (skilled helper with training). Planning ADR transport transition.",
-      "notesDe": "Lehre mit 15 begonnen, aber mit 18 abgebrochen. Arbeitet seither als Hilfskraft mit beträchtlichen Fähigkeiten weiter. Eingestuft in Gruppe 6 (angelernte Hilfskraft mit Ausbildung). Plant den Wechsel in den ADR-Transport.",
+      "notes": "Apprenticeship started but discontinued. Continued working as helfer with substantial skills. Classified as Group 6 (skilled helper with training). Planning ADR transport transition.",
+      "notesDe": "Lehre begonnen, aber abgebrochen. Arbeitet seither als Hilfskraft mit beträchtlichen Fähigkeiten weiter. Eingestuft in Gruppe 6 (angelernte Hilfskraft mit Ausbildung). Plant den Wechsel in den ADR-Transport.",
       "collectiveAgreementGroup": null
     },
     {
@@ -9940,8 +10068,8 @@
         "2700€ netto"
       ],
       "confidence": 0.75,
-      "notes": "8y experience (started at 16 apprenticeship). Manages 6 people, owns online shop growth from 600k to 1.8M EUR.",
-      "notesDe": "8 Jahre Erfahrung (Lehrbeginn mit 16). Führt 6 Mitarbeiter, verantwortet das Wachstum eines Onlineshops von 600.000 € auf 1,8 Mio. €.",
+      "notes": "8y experience (since starting an apprenticeship). Manages 6 people, owns online shop growth from 600k to 1.8M EUR.",
+      "notesDe": "8 Jahre Erfahrung (seit Lehrbeginn). Führt 6 Mitarbeiter, verantwortet das Wachstum eines Onlineshops von 600.000 € auf 1,8 Mio. €.",
       "collectiveAgreementGroup": null
     },
     {
@@ -9982,8 +10110,8 @@
         "[image] AUSZAHLUNGSBETRAG: EUR 3.567,25"
       ],
       "confidence": 0.85,
-      "notes": "high entry salary in specialized area. 3-4 12.5h shifts/week including night, Sundays, holidays. 1+ year in role. Various shift allowances and night supplements included in figures.",
-      "notesDe": "hohes Einstiegsgehalt in einem spezialisierten Bereich. 3–4 Schichten à 12,5 Std./Woche, inklusive Nacht, Sonntag, Feiertag. Über 1 Jahr in der Rolle. Verschiedene Schichtzulagen und Nachtzuschläge in den Zahlen enthalten.",
+      "notes": "High entry salary in specialized area. 3-4 12.5h shifts/week including night, Sundays, holidays. 1+ year in role. Various shift allowances and night supplements included in figures.",
+      "notesDe": "Hohes Einstiegsgehalt in einem spezialisierten Bereich. 3–4 Schichten à 12,5 Std./Woche, inklusive Nacht, Sonntag, Feiertag. Über 1 Jahr in der Rolle. Verschiedene Schichtzulagen und Nachtzuschläge in den Zahlen enthalten.",
       "collectiveAgreementGroup": null
     },
     {
@@ -10065,7 +10193,7 @@
       ],
       "confidence": 0.9,
       "notes": "8 years total (including 4 year apprenticeship). Only 20€ above KV minimum after 4 years as journeyman. Limited wage growth despite tenure.",
-      "notesDe": "insgesamt 8 Jahre (inklusive 4 Jahre Lehre). Nach 4 Jahren als Geselle nur 20 € über dem KV-Minimum. Trotz Betriebszugehörigkeit kaum Gehaltswachstum.",
+      "notesDe": "Insgesamt 8 Jahre (inklusive 4 Jahre Lehre). Nach 4 Jahren als Geselle nur 20 € über dem KV-Minimum. Trotz Betriebszugehörigkeit kaum Gehaltswachstum.",
       "collectiveAgreementGroup": null
     },
     {
@@ -10144,7 +10272,7 @@
         "[image] Brutto 4976.80"
       ],
       "confidence": 0.7,
-      "notes": "contract from 2016 (grandfathered terms). 5-shift schedule (6 work / 4 free days). Shift work since 2000 (26 years). Maintenance duties on steam, water, gas lines throughout steelworks. Voluntary deductions for funeral, sports, music clubs.",
+      "notes": "Contract from 2016 (grandfathered terms). 5-shift schedule (6 work / 4 free days). Shift work since 2000 (26 years). Maintenance duties on steam, water, gas lines throughout steelworks. Voluntary deductions for funeral, sports, music clubs.",
       "notesDe": "Vertrag aus 2016 (Bestandsschutz-Konditionen). 5-Schicht-System (6 Arbeitstage, 4 freie Tage). Schichtarbeit seit 2000 (26 Jahre). Instandhaltung von Dampf-, Wasser- und Gasleitungen im gesamten Stahlwerk. Freiwillige Abzüge für Sterbekasse, Sport- und Musikvereine.",
       "collectiveAgreementGroup": null
     },
@@ -11184,7 +11312,7 @@
         "[image] Auszahlung 4.706,64"
       ],
       "confidence": 0.85,
-      "notes": "Head of Finance (Prokurist) at a trading company (~ revenue); leads a team of 3 plus HR oversight for ~50 staff. Also gets an unspecified annual bonus.",
+      "notes": "Head of Finance (Prokurist) at a trading company (~25M revenue); leads a team of 3 plus HR oversight for ~50 staff. Also gets an unspecified annual bonus.",
       "notesDe": "Leiter Finanzen (Prokurist) bei einem Handelsunternehmen (ca. 25 Mio. € Umsatz); leitet ein Team von 3 Personen sowie die HR-Aufsicht für ca. 50 Mitarbeiter. Erhält zusätzlich einen nicht näher bezifferten Jahresbonus.",
       "collectiveAgreementGroup": null
     },
@@ -12010,7 +12138,7 @@
       "postId": "1t834uf",
       "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1t834uf/",
       "postDate": "2026-05-09",
-      "postTitle": "Supply Chain Analyst (Pharmazeutische Produktion) 30Std. Elternteilzeit, 5 Jahre im Betrieb",
+      "postTitle": "Supply Chain Analyst (Pharmazeutische Produktion) 30Std. Teilzeit, 5 Jahre im Betrieb",
       "flair": null,
       "upvotes": 51,
       "numComments": 22,
@@ -12919,8 +13047,8 @@
         "[image] Summe Bruttobeziige 4.542,21"
       ],
       "confidence": 0.8,
-      "notes": "RIVIT 5 Bedienst level 2. new RIVIT contract. Apprenticeship background + Berufsreifeprüfung. Leadership position but junior pay grade.",
-      "notesDe": "RIVIT 5, Bedienstetenstufe 2. (Mann), neuer RIVIT-Vertrag. Hintergrund als Lehrabsolvent plus Berufsreifeprüfung. Führungsposition, aber junior Gehaltsstufe.",
+      "notes": "RIVIT 5 Bedienst level 2. New RIVIT contract. Apprenticeship background + Berufsreifeprüfung. Leadership position but junior pay grade.",
+      "notesDe": "RIVIT 5, Bedienstetenstufe 2. Neuer RIVIT-Vertrag. Hintergrund als Lehrabsolvent plus Berufsreifeprüfung. Führungsposition, aber junior Gehaltsstufe.",
       "collectiveAgreementGroup": "5/2"
     },
     {
@@ -13299,7 +13427,7 @@
       "postId": "1syye4r",
       "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1syye4r/",
       "postDate": "2026-04-29",
-      "postTitle": "Krankenschwester (noch ohne BsC, da zu Zeiten vor FH gelernt)/30h/ 16 Jahre beim selben AG/4 Jahre Karenz dazwischen",
+      "postTitle": "Krankenschwester (noch ohne BsC, da zu Zeiten vor FH gelernt)/30h/ 16 Jahre beim selben AG",
       "flair": null,
       "upvotes": 88,
       "numComments": 61,
@@ -13418,7 +13546,7 @@
       ],
       "confidence": 0.85,
       "notes": "Bank trainee, 1 year experience. Überzahlung 670€ = overtime paid (14x annual). BSc WiWi, pursuing MSc. Assistant in corporate lending (Firmenkundenbereich). Works 41h real including ÜP buffer.",
-      "notesDe": "Bank-Trainee, 1 Jahr Erfahrung. Überzahlung 670 € = bezahlte Überstunden (14x jährlich). 27-jähriger Mann, BSc WiWi, absolviert einen MSc. Assistent im Firmenkundenbereich. Arbeitet tatsächlich 41 Std. inklusive ÜP-Puffer.",
+      "notesDe": "Bank-Trainee, 1 Jahr Erfahrung. Überzahlung 670 € = bezahlte Überstunden (14x jährlich). BSc WiWi, absolviert einen MSc. Assistent im Firmenkundenbereich. Arbeitet tatsächlich 41 Std. inklusive ÜP-Puffer.",
       "collectiveAgreementGroup": "ST4"
     },
     {
@@ -13460,7 +13588,7 @@
       ],
       "confidence": 0.9,
       "notes": "Big 4 consulting. VWL+Mathe Bachelor (foreign) + VWL Master Vienna. Third career year in consulting. Clean payslip. KV Basis 3080 shown but salary 4100.",
-      "notesDe": "Big-4-Beratung. 26-jähriger Mann, Bachelor VWL plus Mathematik (im Ausland) plus VWL-Master in Wien. Drittes Berufsjahr im Consulting. Sauberer Lohnzettel. KV-Basis 3.080 € ausgewiesen, tatsächliches Gehalt jedoch 4.100 €.",
+      "notesDe": "Big-4-Beratung. Bachelor VWL plus Mathematik (im Ausland) plus VWL-Master in Wien. Drittes Berufsjahr im Consulting. Sauberer Lohnzettel. KV-Basis 3.080 € ausgewiesen, tatsächliches Gehalt jedoch 4.100 €.",
       "collectiveAgreementGroup": null
     },
     {
@@ -13547,47 +13675,6 @@
       "collectiveAgreementGroup": null
     },
     {
-      "id": "1sx888u",
-      "postId": "1sx888u",
-      "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1sx888u/",
-      "postDate": "2026-04-27",
-      "postTitle": "Krankenpfleger Gehalt",
-      "flair": null,
-      "upvotes": 171,
-      "numComments": 91,
-      "jobTitle": "Krankenpfleger",
-      "standardizedTitle": "Registered Nurse (DGKP)",
-      "roleFamily": "registered-nursing",
-      "industry": "Healthcare & Social",
-      "seniority": "senior",
-      "experienceYears": 7,
-      "region": "Vienna",
-      "hoursPerWeek": 40,
-      "employmentType": "employee",
-      "salaryKind": "current",
-      "paymentsPerYear": 14,
-      "grossMonthly": 3676.74,
-      "grossAnnual": 51474,
-      "netMonthly": null,
-      "hourlyGross": null,
-      "bonusAnnual": null,
-      "allIn": false,
-      "collectiveAgreement": "Öffentlicher Dienst",
-      "salarySource": "image",
-      "derived": [
-        "grossAnnual"
-      ],
-      "figuresVerified": true,
-      "evidence": [
-        "[image] Gehalt/Entsch. 3.383,74",
-        "[image] Summe Beziige 8.908,01"
-      ],
-      "confidence": 0.4,
-      "notes": "SKIP - Payslip shows 86 Überstunden (~20h/week extra). April payslip shows extreme month. Unclean month. OP states normal 2.8-3.1k netto without OT, realistic average 4k with typical 30h/month OT. This month is extreme outlier. Base ~3383, massive variable OT compensation. City Vienna. Not r",
-      "notesDe": "SKIP – Lohnzettel zeigt 86 Überstunden (ca. 20 Std./Woche zusätzlich). Der Lohnzettel für April zeigt einen extremen Monat. Unsauberer Monat. Laut Verfasser normalerweise 2.800–3.100 € netto ohne Überstunden, realistischer Durchschnitt 4.000 € bei üblichen 30 Std./Monat Überstunden. Dieser Monat ist ein extremer Ausreißer. Basis ca. 3.383 €, massive variable Überstundenvergütung. Wien. Nicht",
-      "collectiveAgreementGroup": "Spital"
-    },
-    {
       "id": "1sxbxna",
       "postId": "1sxbxna",
       "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1sxbxna/",
@@ -13670,46 +13757,6 @@
       "collectiveAgreementGroup": null
     },
     {
-      "id": "1suek30",
-      "postId": "1suek30",
-      "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1suek30/",
-      "postDate": "2026-04-24",
-      "postTitle": "Produktionsleiter Holzverarbeitende Industrie, HTL Ingenieur, 50h Woche, 11 Jahre Berufserfahrung, Grundgehalt ~3800€ netto",
-      "flair": null,
-      "upvotes": 19,
-      "numComments": 3,
-      "jobTitle": "Produktionsleiter Holzverarbeitende Industrie",
-      "standardizedTitle": "Production Manager",
-      "roleFamily": "production-manufacturing-operations",
-      "industry": "Engineering & Manufacturing",
-      "seniority": "lead",
-      "experienceYears": 11,
-      "region": null,
-      "hoursPerWeek": 50,
-      "employmentType": "employee",
-      "salaryKind": "current",
-      "paymentsPerYear": 14,
-      "grossMonthly": null,
-      "grossAnnual": null,
-      "netMonthly": 3800,
-      "hourlyGross": null,
-      "bonusAnnual": null,
-      "allIn": false,
-      "collectiveAgreement": null,
-      "salarySource": "post",
-      "derived": [
-        "paymentsPerYear"
-      ],
-      "figuresVerified": true,
-      "evidence": [
-        "Grundgehalt ~3800€ netto"
-      ],
-      "confidence": 0.4,
-      "notes": "OCR transcription too poor to read payslip. Title states 3800 netto. Unclean: ~43.5h/month overtime typical. HTL Ingenieur. 11 years at firm, 1.5y as Leiter. Leads 3 angestellte, 2 Vorarbeiter, 20 Gesellen, 15 Hilfsarbeiter, 7 Lehrlinge. Window/door manufacturing. Low confidence due to OCR.",
-      "notesDe": "OCR-Transkription zu schlecht, um den Lohnzettel zu lesen. Titel nennt 3.800 € netto. Unsauber: üblicherweise ca. 43,5 Std./Monat Überstunden. HTL-Ingenieur. 11 Jahre in der Firma, davon 1,5 Jahre als Leiter. Führt 3 Angestellte, 2 Vorarbeiter, 20 Gesellen, 15 Hilfsarbeiter, 7 Lehrlinge. Fenster- und Türenherstellung. Geringe Konfidenz aufgrund der OCR.",
-      "collectiveAgreementGroup": null
-    },
-    {
       "id": "1stdm8r",
       "postId": "1stdm8r",
       "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1stdm8r/",
@@ -13789,7 +13836,7 @@
       ],
       "confidence": 0.6,
       "notes": "Special needs teacher (VSK = Volksschule Klasse). Stufe 01, 4 years experience, 22 teaching hours. Very low pay for academic background. Noting: payslip shows discrepancy (10% reduction on base), possibly traineeship or permanent contract issue. Net figure not fully visible in transcript.",
-      "notesDe": "Sonderschullehrerin (VSK = Volksschulklasse), 27-jährige Frau, Stufe 01, 4 Jahre Erfahrung, 22 Unterrichtsstunden. Sehr niedrige Bezahlung für den akademischen Hintergrund. Anmerkung: Lohnzettel zeigt eine Abweichung (10% Abzug auf die Basis), möglicherweise ein Problem mit dem Ausbildungsdienstverhältnis oder dem unbefristeten Vertrag. Netto-Wert im Transkript nicht vollständig sichtbar.",
+      "notesDe": "Sonderschullehrerin (VSK = Volksschulklasse), Stufe 01, 4 Jahre Erfahrung, 22 Unterrichtsstunden. Sehr niedrige Bezahlung für den akademischen Hintergrund. Anmerkung: Lohnzettel zeigt eine Abweichung (10% Abzug auf die Basis), möglicherweise ein Problem mit dem Ausbildungsdienstverhältnis oder dem unbefristeten Vertrag. Netto-Wert im Transkript nicht vollständig sichtbar.",
       "collectiveAgreementGroup": "Lehrkräfte"
     },
     {
@@ -13829,8 +13876,8 @@
         "[image] Summe Gehalt u. Wahr.zul. 2.572,60"
       ],
       "confidence": 0.6,
-      "notes": "Unclean month: 30h overtime + KIOP premium 600.13 (overseas deployment readiness). Base 2572.60, Truppendienst-Zulage 74.10, Pendler 143.24, KPE Pramie 600.13, OT 50% 21h + 9h. Unteroffizier, KPE (Kader-Praesenz-Einheit). Completed UNIFIL deployment Lebanon earning 7000€ extra month. Net not in",
-      "notesDe": "Unsauberer Monat: 30 Std. Überstunden plus KIOP-Prämie 600,13 € (Auslandseinsatzbereitschaft). Basis 2.572,60 €, Truppendienstzulage 74,10 €, Pendlerpauschale 143,24 €, KPE-Prämie 600,13 €, Überstunden 50% für 21 Std. plus 9 Std. 27-jähriger Mann, Unteroffizier, KPE (Kaderpräsenzeinheit). Absolvierte einen UNIFIL-Einsatz im Libanon mit 7.000 € Zusatzverdienst in diesem Monat. Netto nicht",
+      "notes": "Unclean month: 30h overtime + KIOP premium 600.13 (overseas deployment readiness). Base 2572.60, Truppendienst-Zulage 74.10, Pendler 143.24, KPE Pramie 600.13, OT 50% 21h + 9h. Unteroffizier, KPE (Kader-Praesenz-Einheit). Completed UNIFIL deployment Lebanon earning 7000€ extra month. Net not in tran",
+      "notesDe": "Unsauberer Monat: 30 Std. Überstunden plus KIOP-Prämie 600,13 € (Auslandseinsatzbereitschaft). Basis 2.572,60 €, Truppendienstzulage 74,10 €, Pendlerpauschale 143,24 €, KPE-Prämie 600,13 €, Überstunden 50% für 21 Std. Plus 9 Std. Unteroffizier, KPE (Kaderpräsenzeinheit). Absolvierte einen UNIFIL-Einsatz im Libanon mit 7.000 € Zusatzverdienst in diesem Monat. Netto nicht",
       "collectiveAgreementGroup": "Bundesheer"
     },
     {
@@ -13871,7 +13918,7 @@
       ],
       "confidence": 0.75,
       "notes": "Building services electrician at hospital. 7 years experience. Stufe 04 (step 4). Specific KV between religious order and union (likely not standard). Payslip shows 3521.50 / 2469.64 (minor rounding difference). Using body figures as stated by OP.",
-      "notesDe": "Elektriker für Gebäudetechnik in einem Krankenhaus. 27-jähriger Mann, 7 Jahre Erfahrung. Stufe 04. Spezieller KV zwischen Ordensträger und Gewerkschaft (vermutlich nicht standardisiert). Lohnzettel zeigt 3.521,50 € / 2.469,64 € (kleine Rundungsdifferenz). Es werden die vom Verfasser im Beitrag genannten Zahlen verwendet.",
+      "notesDe": "Elektriker für Gebäudetechnik in einem Krankenhaus. 7 Jahre Erfahrung. Stufe 04. Spezieller KV zwischen Ordensträger und Gewerkschaft (vermutlich nicht standardisiert). Lohnzettel zeigt 3.521,50 € / 2.469,64 € (kleine Rundungsdifferenz). Es werden die vom Verfasser im Beitrag genannten Zahlen verwendet.",
       "collectiveAgreementGroup": "Stufe 4"
     },
     {
@@ -13910,8 +13957,8 @@
         "[image] Sunnme Gezige 6780.00"
       ],
       "confidence": 0.5,
-      "notes": "All-in contract. HTL Hochbau. Salary 6780 base, plus ~560/month travel expense (Germany project Mon-Thu). Started Oct 2025. Works 40h now (was 45-50h initially). Supervision construction (Bauleitung = project management). Payslip minimal detail (abzüge 0.00 unusual - may indicate deduction form",
-      "notesDe": "All-In-Vertrag. 28-jähriger Mann, HTL Hochbau. Gehalt 6.780 € Basis, plus ca. 560 €/Monat Reisekosten (Projekt in Deutschland, Montag bis Donnerstag). Beginn Oktober 2025. Arbeitet jetzt 40 Std. (anfangs 45–50 Std.). Bauleitung. Lohnzettel mit minimalen Details (Abzüge 0,00 € ungewöhnlich – könnte auf eine Abzugsform hindeuten",
+      "notes": "All-in contract. HTL Hochbau. Salary 6780 base, plus ~560/month travel expense (Germany project Mon-Thu). Started Oct 2025. Works 40h now (was 45-50h initially). Supervision construction (Bauleitung = project management). Payslip minimal detail (abzüge 0.00 unusual - may indicate deduction format is",
+      "notesDe": "All-In-Vertrag. HTL Hochbau. Gehalt 6.780 € Basis, plus ca. 560 €/Monat Reisekosten (Projekt in Deutschland, Montag bis Donnerstag). Beginn Oktober 2025. Arbeitet jetzt 40 Std. (anfangs 45–50 Std.). Bauleitung. Lohnzettel mit minimalen Details (Abzüge 0,00 € ungewöhnlich – könnte auf eine Abzugsform hindeuten",
       "collectiveAgreementGroup": null
     },
     {
@@ -13991,8 +14038,8 @@
         "[image] Summe 5.589,66"
       ],
       "confidence": 0.55,
-      "notes": "Unclean month: December payslip (year-end). Multiple allowances: RB-Dienst, Außendienst, various OT rates (150%/200%), SEG, Pendler 6€/km. Base 4414.67, heavy OT. Elektro-Anlagen Betriebstechniker + Schlosser double apprentice. 7 days standby mandatory + field OT. 146 total hours that month (2",
-      "notesDe": "Unsauberer Monat: Dezember-Lohnzettel (Jahresende). Mehrere Zulagen: Rufbereitschaftsdienst, Außendienst, verschiedene Überstundensätze (150%/200%), SEG, Pendlerpauschale 6 €/km. Basis 4.414,67 €, viele Überstunden. 30-jähriger Mann, Doppellehre Elektroanlagen-Betriebstechniker plus Schlosser. 7 Tage verpflichtende Rufbereitschaft plus Außendienst-Überstunden. Insgesamt 146 Stunden in diesem Monat",
+      "notes": "Unclean month: December payslip (year-end). Multiple allowances: RB-Dienst, Außendienst, various OT rates (150%/200%), SEG, Pendler 6€/km. Base 4414.67, heavy OT. Elektro-Anlagen Betriebstechniker + Schlosser double apprentice. 7 days standby mandatory + field OT. 146 total hours that month (2 days ",
+      "notesDe": "Unsauberer Monat: Dezember-Lohnzettel (Jahresende). Mehrere Zulagen: Rufbereitschaftsdienst, Außendienst, verschiedene Überstundensätze (150%/200%), SEG, Pendlerpauschale 6 €/km. Basis 4.414,67 €, viele Überstunden. Doppellehre Elektroanlagen-Betriebstechniker plus Schlosser. 7 Tage verpflichtende Rufbereitschaft plus Außendienst-Überstunden. Insgesamt 146 Stunden in diesem Monat",
       "collectiveAgreementGroup": null
     },
     {
@@ -14114,7 +14161,7 @@
       ],
       "confidence": 0.7,
       "notes": "Unclean month: includes standby duty (Rufbereitschaft) 656.25 every 2 months. KMU 55 people, IT services. HTL + IT-Techniker apprenticeship + 9y experience (3y apprenticeship included). Only promised Senior title not yet delivered. Studying FH M365/Azure/Terraform/Docker/Kubernetes self-taught.",
-      "notesDe": "Unsauberer Monat: enthält Rufbereitschaft 656,25 € alle 2 Monate. KMU mit 55 Mitarbeitern, IT-Dienstleistungen. 27-jähriger Mann, HTL plus IT-Techniker-Lehre plus 9 Jahre Erfahrung (davon 3 Jahre Lehre). Senior-Titel nur versprochen, noch nicht umgesetzt. FH-Studium, M365/Azure/Terraform/Docker/Kubernetes autodidaktisch angeeignet.",
+      "notesDe": "Unsauberer Monat: enthält Rufbereitschaft 656,25 € alle 2 Monate. KMU mit 55 Mitarbeitern, IT-Dienstleistungen. HTL plus IT-Techniker-Lehre plus 9 Jahre Erfahrung (davon 3 Jahre Lehre). Senior-Titel nur versprochen, noch nicht umgesetzt. FH-Studium, M365/Azure/Terraform/Docker/Kubernetes autodidaktisch angeeignet.",
       "collectiveAgreementGroup": "ST1"
     },
     {
@@ -14237,8 +14284,8 @@
         "[image] Netto aktuelles Monat 3.734,74"
       ],
       "confidence": 0.85,
-      "notes": "All-in contract, no premiums (Obstkorb, Essensgutscheine only). 8 years experience. ST2 classification. Incident response, system security administration, monitoring (XDR, Zabbix), integration projects (SIEM, AD hardening), privileged access workstation setup. Actively involved in architecture",
-      "notesDe": "All-In-Vertrag, keine Zuschläge (nur Obstkorb, Essensgutscheine). 36-jähriger Mann, 8 Jahre Erfahrung. Einstufung ST2. Incident Response, Systemsicherheitsadministration, Monitoring (XDR, Zabbix), Integrationsprojekte (SIEM, AD-Hardening), Einrichtung von Privileged-Access-Workstations. Aktiv in die Architektur eingebunden",
+      "notes": "All-in contract, no premiums (Obstkorb, Essensgutscheine only). 8 years experience. ST2 classification. Incident response, system security administration, monitoring (XDR, Zabbix), integration projects (SIEM, AD hardening), privileged access workstation setup. Actively involved in architecture decis",
+      "notesDe": "All-In-Vertrag, keine Zuschläge (nur Obstkorb, Essensgutscheine). 8 Jahre Erfahrung. Einstufung ST2. Incident Response, Systemsicherheitsadministration, Monitoring (XDR, Zabbix), Integrationsprojekte (SIEM, AD-Hardening), Einrichtung von Privileged-Access-Workstations. Aktiv in die Architektur eingebunden",
       "collectiveAgreementGroup": "ST2"
     },
     {
@@ -15159,7 +15206,7 @@
       "postId": "1sglql6",
       "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1sglql6/",
       "postDate": "2026-04-09",
-      "postTitle": "M (34), Sozialarbeiter seit 2017, 30h",
+      "postTitle": "Sozialarbeiter seit 2017, 30h",
       "flair": null,
       "upvotes": 32,
       "numComments": 107,
@@ -15687,8 +15734,8 @@
         "[image] Uberweisung 3.541,05"
       ],
       "confidence": 0.7,
-      "notes": "discontinued electrician apprenticeship. Installs/maintains beverage distribution systems. Unclean month with extensive zulagen (Mehrarb 50%, Überstunden, Taggeld, Ausloese, Bereitschpasch).",
-      "notesDe": "44-jähriger Mann, abgebrochene Elektrikerlehre. Installiert und wartet Getränkeschankanlagen. Unsauberer Monat mit umfangreichen Zulagen (Mehrarbeit 50%, Überstunden, Taggeld, Auslöse, Bereitschaftspauschale).",
+      "notes": "Discontinued electrician apprenticeship. Installs/maintains beverage distribution systems. Unclean month with extensive zulagen (Mehrarb 50%, Überstunden, Taggeld, Ausloese, Bereitschpasch).",
+      "notesDe": "Abgebrochene Elektrikerlehre. Installiert und wartet Getränkeschankanlagen. Unsauberer Monat mit umfangreichen Zulagen (Mehrarbeit 50%, Überstunden, Taggeld, Auslöse, Bereitschaftspauschale).",
       "collectiveAgreementGroup": null
     },
     {
@@ -16516,7 +16563,7 @@
       ],
       "confidence": 0.8,
       "notes": "Electrician skilled with project/calculation role. Monthly salary plus fixed premium. Small allowances for travel.",
-      "notesDe": "30-jähriger Mann. Gelernter Elektriker in einer Projekt-/Kalkulationsrolle. Monatsgehalt plus fixe Prämie. Kleine Fahrtkostenzulagen.",
+      "notesDe": "Gelernter Elektriker in einer Projekt-/Kalkulationsrolle. Monatsgehalt plus fixe Prämie. Kleine Fahrtkostenzulagen.",
       "collectiveAgreementGroup": "LG 3"
     },
     {
@@ -16599,8 +16646,8 @@
         "[image] 986,40 EUR (Mar)"
       ],
       "confidence": 0.75,
-      "notes": "Military/civil service (Zivildienst).. Very low pay but standard for civil service. OP notes this is better than Bundesheer (350€) or previous 600€.",
-      "notesDe": "Zivildienst.. Sehr niedrige Bezahlung, aber Standard für den Zivildienst. Laut Verfasser besser als beim Bundesheer (350 €) oder der vorherigen Stelle mit 600 €.",
+      "notes": "Military/civil service (Zivildienst). Very low pay but standard for civil service. OP notes this is better than Bundesheer (350€) or previous 600€.",
+      "notesDe": "Zivildienst. Sehr niedrige Bezahlung, aber Standard für den Zivildienst. Laut Verfasser besser als beim Bundesheer (350 €) oder der vorherigen Stelle mit 600 €.",
       "collectiveAgreementGroup": null
     },
     {
@@ -16806,7 +16853,7 @@
       ],
       "confidence": 0.85,
       "notes": "9 years at firm. IC-KV (not Architektur-KV as commenter assumed). Mixed office/field work with HO days. Meal allowance for full field days. Annual transit card included. Colleagues and work satisfaction high.",
-      "notesDe": "30-jähriger Mann. 9 Jahre in der Firma. IC-KV (nicht Architektur-KV, wie ein Kommentator annahm). Mischung aus Büro- und Außendiensttätigkeit mit Homeoffice-Tagen. Essenszulage für volle Außendiensttage. Jahreskarte für öffentliche Verkehrsmittel inkludiert. Hohe Zufriedenheit mit Kollegen und Arbeit.",
+      "notesDe": "9 Jahre in der Firma. IC-KV (nicht Architektur-KV, wie ein Kommentator annahm). Mischung aus Büro- und Außendiensttätigkeit mit Homeoffice-Tagen. Essenszulage für volle Außendiensttage. Jahreskarte für öffentliche Verkehrsmittel inkludiert. Hohe Zufriedenheit mit Kollegen und Arbeit.",
       "collectiveAgreementGroup": null
     },
     {
@@ -16849,7 +16896,7 @@
       ],
       "confidence": 0.9,
       "notes": "2nd apprenticeship year. Trenngeld (separation/commute allowance) included but separate. Started 04.2025.",
-      "notesDe": "19-jähriger Mann. 2. Lehrjahr. Trenngeld (Trennungs-/Pendlerzulage) enthalten, aber separat ausgewiesen. Beginn 04.2025.",
+      "notesDe": "2. Lehrjahr. Trenngeld (Trennungs-/Pendlerzulage) enthalten, aber separat ausgewiesen. Beginn 04.2025.",
       "collectiveAgreementGroup": null
     },
     {
@@ -16891,7 +16938,7 @@
       ],
       "confidence": 0.85,
       "notes": "10 YoE, no degree. >50% home office. Jobrad benefit (€170 deduction), travel allowance. OP notes would earn more with degree but satisfied. Also covers Linux admin duties.",
-      "notesDe": "38-jähriger Mann. 10 Jahre Erfahrung, kein Studienabschluss. Über 50% Homeoffice. Jobrad-Vorteil (170 € Abzug), Fahrtkostenzulage. Laut Verfasser würde ein Abschluss mehr Gehalt bringen, ist aber zufrieden. Übernimmt zusätzlich Linux-Administrationsaufgaben.",
+      "notesDe": "10 Jahre Erfahrung, kein Studienabschluss. Über 50% Homeoffice. Jobrad-Vorteil (170 € Abzug), Fahrtkostenzulage. Laut Verfasser würde ein Abschluss mehr Gehalt bringen, ist aber zufrieden. Übernimmt zusätzlich Linux-Administrationsaufgaben.",
       "collectiveAgreementGroup": null
     },
     {
@@ -16933,7 +16980,7 @@
       ],
       "confidence": 0.85,
       "notes": "HTL (non-IT), self-taught web dev. 2 companies (1.5y then current). At/slightly above IT-KV ST1, moving to next level in August (~€4.5k). Expecting KV upgrade negotiation.",
-      "notesDe": "30-jähriger Mann. HTL (nicht IT), autodidaktischer Webentwickler. 2 Firmen (1,5 Jahre, dann aktuelle Firma). Auf/leicht über IT-KV ST1, wechselt im August in die nächste Stufe (ca. 4.500 €). Erwartet eine Verhandlung zur KV-Höherstufung.",
+      "notesDe": "HTL (nicht IT), autodidaktischer Webentwickler. 2 Firmen (1,5 Jahre, dann aktuelle Firma). Auf/leicht über IT-KV ST1, wechselt im August in die nächste Stufe (ca. 4.500 €). Erwartet eine Verhandlung zur KV-Höherstufung.",
       "collectiveAgreementGroup": null
     },
     {
@@ -16975,7 +17022,7 @@
       ],
       "confidence": 0.85,
       "notes": "Bachelor Kulturtechnik und Wasserwirtschaft. Works since 2022 (part-time during study), now full-time. Regular +10h/month overtime paid out. Satisfied with job and colleagues.",
-      "notesDe": "26-jähriger Mann. Bachelor Kulturtechnik und Wasserwirtschaft. Arbeitet seit 2022 (während des Studiums Teilzeit), jetzt Vollzeit. Regelmäßig zusätzlich 10 Std./Monat ausbezahlte Überstunden. Zufrieden mit Job und Kollegen.",
+      "notesDe": "Bachelor Kulturtechnik und Wasserwirtschaft. Arbeitet seit 2022 (während des Studiums Teilzeit), jetzt Vollzeit. Regelmäßig zusätzlich 10 Std./Monat ausbezahlte Überstunden. Zufrieden mit Job und Kollegen.",
       "collectiveAgreementGroup": "BG 3"
     },
     {
@@ -17017,7 +17064,7 @@
       ],
       "confidence": 0.85,
       "notes": "12h/week while studying. Excellent hourly rate (~€99.8/hr gross). Local company nearby. Started during education, stayed post-graduation.",
-      "notesDe": "26-jähriger Mann. 12 Std./Woche neben dem Studium. Ausgezeichneter Stundensatz (ca. 99,8 € brutto/Std.). Lokale Firma in der Nähe. Begonnen während der Ausbildung, geblieben nach dem Abschluss.",
+      "notesDe": "12 Std./Woche neben dem Studium. Ausgezeichneter Stundensatz (ca. 99,8 € brutto/Std.). Lokale Firma in der Nähe. Begonnen während der Ausbildung, geblieben nach dem Abschluss.",
       "collectiveAgreementGroup": null
     },
     {
@@ -17059,7 +17106,7 @@
       ],
       "confidence": 0.8,
       "notes": "Hotel in 1st district Vienna. 7 years at firm. Base pay only - tips add ~€1500-2000/month (summer ~1.5k, winter ~2k). Real income likely €3.2-3.7k/month total with tips.",
-      "notesDe": "28-jähriger Mann. Hotel im 1. Wiener Gemeindebezirk. 7 Jahre in der Firma. Nur Grundgehalt – Trinkgeld bringt zusätzlich ca. 1.500–2.000 €/Monat (Sommer ca. 1.500 €, Winter ca. 2.000 €). Tatsächliches Einkommen inklusive Trinkgeld vermutlich 3.200–3.700 €/Monat.",
+      "notesDe": "Hotel im 1. Wiener Gemeindebezirk. 7 Jahre in der Firma. Nur Grundgehalt – Trinkgeld bringt zusätzlich ca. 1.500–2.000 €/Monat (Sommer ca. 1.500 €, Winter ca. 2.000 €). Tatsächliches Einkommen inklusive Trinkgeld vermutlich 3.200–3.700 €/Monat.",
       "collectiveAgreementGroup": null
     },
     {
@@ -17100,7 +17147,7 @@
       ],
       "confidence": 0.85,
       "notes": "Public sector IT (RIVIT 5 schema). Special contract, entry level (Gehaltsstufe 01). Advances at 1, 3, 9 years. HTL Matura, BSc in progress. 13/14 salary paid quarterly (€2179.83 SZ shown in March = 50% of 13th + partial 14th).",
-      "notesDe": "22-jähriger Mann. IT im öffentlichen Dienst (Schema RIVIT 5). Sondervertrag, Einstiegsstufe (Gehaltsstufe 01). Vorrückung nach 1, 3, 9 Jahren. HTL-Matura, BSc in Arbeit. 13./14. Gehalt quartalsweise ausbezahlt (im März gezeigte Sonderzahlung von 2.179,83 € = 50% des 13. plus anteiliges 14. Gehalt).",
+      "notesDe": "IT im öffentlichen Dienst (Schema RIVIT 5). Sondervertrag, Einstiegsstufe (Gehaltsstufe 01). Vorrückung nach 1, 3, 9 Jahren. HTL-Matura, BSc in Arbeit. 13./14. Gehalt quartalsweise ausbezahlt (im März gezeigte Sonderzahlung von 2.179,83 € = 50% des 13. plus anteiliges 14. Gehalt).",
       "collectiveAgreementGroup": null
     },
     {
@@ -17142,7 +17189,7 @@
       ],
       "confidence": 0.85,
       "notes": "5 years with firm. High engagement, many projects, overtime. Started €2100, now €5335. VWG3. Exceptional for age due to performance and good negotiation. Minor parking penalty deduction (€148).",
-      "notesDe": "26-jähriger Mann. 5 Jahre in der Firma. Hohes Engagement, viele Projekte, Überstunden. Start bei 2.100 €, jetzt 5.335 €. Verwendungsgruppe 3. Außergewöhnlich für das Alter dank Leistung und guter Verhandlung. Kleiner Abzug für ein Parkvergehen (148 €).",
+      "notesDe": "5 Jahre in der Firma. Hohes Engagement, viele Projekte, Überstunden. Start bei 2.100 €, jetzt 5.335 €. Verwendungsgruppe 3. Außergewöhnlich für das Alter dank Leistung und guter Verhandlung. Kleiner Abzug für ein Parkvergehen (148 €).",
       "collectiveAgreementGroup": null
     },
     {
@@ -18033,8 +18080,8 @@
         "[image] netto 2.630,79"
       ],
       "confidence": 0.85,
-      "notes": "finance sector. 2+ years in role, 1.5y prior in similar work. AHS matura + study (incomplete). Wrote preventive notfall plans, risk assessments, crisis response.",
-      "notesDe": "25-jährige Frau, Finanzbranche. Über 2 Jahre in der Rolle, davor 1,5 Jahre in ähnlicher Tätigkeit. AHS-Matura plus Studium (nicht abgeschlossen). Erstellte präventive Notfallpläne, Risikobewertungen, Krisenreaktionskonzepte.",
+      "notes": "Finance sector. 2+ years in role, 1.5y prior in similar work. AHS matura + study (incomplete). Wrote preventive notfall plans, risk assessments, crisis response.",
+      "notesDe": "Finanzbranche. Über 2 Jahre in der Rolle, davor 1,5 Jahre in ähnlicher Tätigkeit. AHS-Matura plus Studium (nicht abgeschlossen). Erstellte präventive Notfallpläne, Risikobewertungen, Krisenreaktionskonzepte.",
       "collectiveAgreementGroup": null
     },
     {
@@ -18117,8 +18164,8 @@
         "3100 Netto"
       ],
       "confidence": 0.9,
-      "notes": "In industry since 2014 (: 12y). More interested in pension account projection than payslip detail. At 65: ~€3,883 brutto / €2,960 netto predicted (before adjustment).",
-      "notesDe": "Seit 2014 in der Industrie ( bis 26: 12 Jahre). Mehr interessiert an der Pensionskonto-Prognose als an Lohnzetteldetails. Mit 65: prognostiziert ca. 3.883 € brutto / 2.960 € netto (vor Anpassung).",
+      "notes": "In industry since 2014 (12y). More interested in pension account projection than payslip detail. At 65: ~€3,883 brutto / €2,960 netto predicted (before adjustment).",
+      "notesDe": "Seit 2014 in der Industrie (12 Jahre). Mehr interessiert an der Pensionskonto-Prognose als an Lohnzetteldetails. Mit 65: prognostiziert ca. 3.883 € brutto / 2.960 € netto (vor Anpassung).",
       "collectiveAgreementGroup": null
     },
     {
@@ -18158,8 +18205,8 @@
         "[image] 2.100,00 |BMG SV"
       ],
       "confidence": 0.65,
-      "notes": "part-time 30h/week (90% HO). Almost 1 year experience. All-In contract. Feels low for 30h; self-assessment. Transcript garbled; gross inferred.",
-      "notesDe": "22-jährige Frau, Teilzeit 30 Std./Woche (90% Homeoffice). Fast 1 Jahr Erfahrung. All-In-Vertrag. Empfindet es für 30 Std. als niedrig; eigene Einschätzung. Transkript fehlerhaft; Brutto abgeleitet.",
+      "notes": "Part-time 30h/week (90% HO). Almost 1 year experience. All-In contract. Feels low for 30h; self-assessment. Transcript garbled; gross inferred.",
+      "notesDe": "Teilzeit 30 Std./Woche (90% Homeoffice). Fast 1 Jahr Erfahrung. All-In-Vertrag. Empfindet es für 30 Std. als niedrig; eigene Einschätzung. Transkript fehlerhaft; Brutto abgeleitet.",
       "collectiveAgreementGroup": null
     },
     {
@@ -18167,7 +18214,7 @@
       "postId": "1s8lneb",
       "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1s8lneb/",
       "postDate": "2026-03-31",
-      "postTitle": "M(20) ferialpraktikant in Labor (Lebensmittelbereich)",
+      "postTitle": "ferialpraktikant in Labor (Lebensmittelbereich)",
       "flair": null,
       "upvotes": 3,
       "numComments": 3,
@@ -18536,8 +18583,8 @@
         "[image] Bezug012026 — € 3.127,80"
       ],
       "confidence": 0.6,
-      "notes": "no Matura (Handelsschule only). Key Account Manager, insurance. Monthly varying: Feb 2360€, Dec 3127€, Jan varies. Transcript unclear; cannot verify gross/net or bonuses. Limited tenure suggests probation period or commission-based structure.",
-      "notesDe": "25-jähriger Mann, keine Matura (nur Handelsschule). Key Account Manager, Versicherung. Monatlich schwankend: Februar 2.360 €, Dezember 3.127 €, Jänner schwankend. Transkript unklar; Brutto/Netto oder Boni nicht überprüfbar. Kurze Betriebszugehörigkeit deutet auf Probezeit oder provisionsbasierte Struktur hin.",
+      "notes": "No Matura (Handelsschule only). Key Account Manager, insurance. Monthly varying: Feb 2360€, Dec 3127€, Jan varies. Transcript unclear; cannot verify gross/net or bonuses. Limited tenure suggests probation period or commission-based structure.",
+      "notesDe": "Keine Matura (nur Handelsschule). Key Account Manager, Versicherung. Monatlich schwankend: Februar 2.360 €, Dezember 3.127 €, Jänner schwankend. Transkript unklar; Brutto/Netto oder Boni nicht überprüfbar. Kurze Betriebszugehörigkeit deutet auf Probezeit oder provisionsbasierte Struktur hin.",
       "collectiveAgreementGroup": null
     },
     {
@@ -18579,7 +18626,7 @@
       ],
       "confidence": 0.85,
       "notes": "Volksschule classroom teacher (full responsibility), 22 taught hours/week, Styria. Gehaltsstufe 1. Fixed travel allowance (57.62€). Job satisfaction high; defends workload with tracked data: 46h/week including prep/admin/parent-teacher calls, not just taught 22h.",
-      "notesDe": "24-jährige Frau, Volksschullehrerin mit voller Klassenverantwortung, 22 Unterrichtsstunden/Woche, Steiermark. Gehaltsstufe 1. Fixe Fahrtkostenzulage (57,62 €). Hohe Arbeitszufriedenheit; verteidigt die Arbeitsbelastung mit erfassten Daten: 46 Std./Woche inklusive Vorbereitung, Verwaltung und Elterngesprächen, nicht nur die 22 Unterrichtsstunden.",
+      "notesDe": "Volksschullehrerin mit voller Klassenverantwortung, 22 Unterrichtsstunden/Woche, Steiermark. Gehaltsstufe 1. Fixe Fahrtkostenzulage (57,62 €). Hohe Arbeitszufriedenheit; verteidigt die Arbeitsbelastung mit erfassten Daten: 46 Std./Woche inklusive Vorbereitung, Verwaltung und Elterngesprächen, nicht nur die 22 Unterrichtsstunden.",
       "collectiveAgreementGroup": null
     },
     {
@@ -18704,7 +18751,7 @@
       ],
       "confidence": 0.85,
       "notes": "5y at firm. B2B machinery (Maschinenbau), 6-person dept. Land-based; unspecified region. Team lead role. Clean month; minor Betriebsratsumlage (-4.5€) and Kantine (-5.6€) Feb.",
-      "notesDe": "28-jährige Frau, 5 Jahre in der Firma. B2B-Maschinenbau, Abteilung mit 6 Personen. Landbasiert; Region nicht angegeben. Teamleitungsrolle. Sauberer Monat; im Februar kleine Betriebsratsumlage (-4,5 €) und Kantine (-5,6 €).",
+      "notesDe": "5 Jahre in der Firma. B2B-Maschinenbau, Abteilung mit 6 Personen. Landbasiert; Region nicht angegeben. Teamleitungsrolle. Sauberer Monat; im Februar kleine Betriebsratsumlage (-4,5 €) und Kantine (-5,6 €).",
       "collectiveAgreementGroup": null
     },
     {
@@ -18789,7 +18836,7 @@
       ],
       "confidence": 0.65,
       "notes": "OÖ. Lehre 2010, few years at firm, 2nd/3rd level support, internal IT projects. Monthly varying: 4374€, 3515€, 3932€ shown. Transcript unclear; cannot determine if gross or net.",
-      "notesDe": "36-jähriger Mann, OÖ. Lehre 2010, einige Jahre in der Firma, 2nd-/3rd-Level-Support, interne IT-Projekte. Monatlich schwankend: 4.374 €, 3.515 €, 3.932 € gezeigt. Transkript unklar; nicht feststellbar, ob brutto oder netto.",
+      "notesDe": "OÖ. Lehre 2010, einige Jahre in der Firma, 2nd-/3rd-Level-Support, interne IT-Projekte. Monatlich schwankend: 4.374 €, 3.515 €, 3.932 € gezeigt. Transkript unklar; nicht feststellbar, ob brutto oder netto.",
       "collectiveAgreementGroup": null
     },
     {
@@ -18831,7 +18878,7 @@
       ],
       "confidence": 0.85,
       "notes": "Bachelor militärischer Führung. MBO2, VG 3. 10y all service. KIOP/KPE 3-year voluntary commitment for rapid deployment (600€/month). May undertake foreign ops with surcharge (5k+ tax-free). Realistic 41h/week but often double with exercises/mobilization.",
-      "notesDe": "30-jähriger Mann, Bachelor militärische Führung. MBO2, Verwendungsgruppe 3. 10 Jahre Gesamtdienstzeit. KIOP/KPE, 3-jährige freiwillige Verpflichtung für rasche Einsatzbereitschaft (600 €/Monat). Kann Auslandseinsätze mit Zuschlag übernehmen (über 5.000 € steuerfrei). Realistisch 41 Std./Woche, oft aber doppelt so viel bei Übungen/Mobilmachung.",
+      "notesDe": "Bachelor militärische Führung. MBO2, Verwendungsgruppe 3. 10 Jahre Gesamtdienstzeit. KIOP/KPE, 3-jährige freiwillige Verpflichtung für rasche Einsatzbereitschaft (600 €/Monat). Kann Auslandseinsätze mit Zuschlag übernehmen (über 5.000 € steuerfrei). Realistisch 41 Std./Woche, oft aber doppelt so viel bei Übungen/Mobilmachung.",
       "collectiveAgreementGroup": null
     },
     {
@@ -18873,7 +18920,7 @@
       ],
       "confidence": 0.85,
       "notes": "HTL Maschinenbau, MSc + BSc (nebenberuflich), IWE certification (Schweißaufsicht). Machinery/plant design, 3D-CAD, quality assurance. ~100€ above KV entry (~3.3k). Self-employment planned.",
-      "notesDe": "25-jähriger Mann, HTL Maschinenbau, MSc plus BSc (nebenberuflich), IWE-Zertifizierung (Schweißaufsicht). Maschinen-/Anlagenkonstruktion, 3D-CAD, Qualitätssicherung. Ca. 100 € über dem KV-Einstieg (ca. 3.300 €). Selbstständigkeit geplant.",
+      "notesDe": "HTL Maschinenbau, MSc plus BSc (nebenberuflich), IWE-Zertifizierung (Schweißaufsicht). Maschinen-/Anlagenkonstruktion, 3D-CAD, Qualitätssicherung. Ca. 100 € über dem KV-Einstieg (ca. 3.300 €). Selbstständigkeit geplant.",
       "collectiveAgreementGroup": null
     },
     {
@@ -18914,8 +18961,8 @@
         "[image] Netto 1.440,53"
       ],
       "confidence": 0.85,
-      "notes": "first job; Matura + unfinished degree. Part-time 30h/week (on 30h since Oct). Doing concurrent Lehrgang (training course). No All-In. Can take OT as time-off or exchange for course absences.",
-      "notesDe": "27-jähriger Mann, erster Job; Matura plus abgebrochenes Studium. Teilzeit 30 Std./Woche (seit Oktober auf 30 Std.). Absolviert parallel einen Lehrgang. Kein All-In. Kann Überstunden als Zeitausgleich nehmen oder gegen Kursabwesenheiten gegenrechnen.",
+      "notes": "First job; Matura + unfinished degree. Part-time 30h/week (on 30h since Oct). Doing concurrent Lehrgang (training course). No All-In. Can take OT as time-off or exchange for course absences.",
+      "notesDe": "Erster Job; Matura plus abgebrochenes Studium. Teilzeit 30 Std./Woche (seit Oktober auf 30 Std.). Absolviert parallel einen Lehrgang. Kein All-In. Kann Überstunden als Zeitausgleich nehmen oder gegen Kursabwesenheiten gegenrechnen.",
       "collectiveAgreementGroup": null
     },
     {
@@ -19207,8 +19254,8 @@
         "[image] Auszahlung 2.866,16"
       ],
       "confidence": 0.75,
-      "notes": "just finished apprenticeship. 4-shift work. Unclean month with extensive overtime, shift bonuses, night bonuses.",
-      "notesDe": "19-jähriger Mann, Lehre gerade abgeschlossen. 4-Schicht-Betrieb. Unsauberer Monat mit umfangreichen Überstunden, Schichtzulagen, Nachtzulagen.",
+      "notes": "Just finished apprenticeship. 4-shift work. Unclean month with extensive overtime, shift bonuses, night bonuses.",
+      "notesDe": "Lehre gerade abgeschlossen. 4-Schicht-Betrieb. Unsauberer Monat mit umfangreichen Überstunden, Schichtzulagen, Nachtzulagen.",
       "collectiveAgreementGroup": null
     },
     {
@@ -19376,7 +19423,7 @@
       ],
       "confidence": 0.85,
       "notes": "6 years dienstzugehörig (tenure). NotSan NKI (paramedic with trauma cert), W2/7/3 classification. ~42 hours/week with 12.5h shifts. Unclean month with shift work allowances.",
-      "notesDe": "27-jähriger Mann, 6 Jahre dienstzugehörig. Notfallsanitäter NKI (Notfallsanitäter mit Trauma-Zertifizierung), Einstufung W2/7/3. Ca. 42 Std./Woche mit 12,5-Std.-Schichten. Unsauberer Monat mit Schichtzulagen.",
+      "notesDe": "6 Jahre dienstzugehörig. Notfallsanitäter NKI (Notfallsanitäter mit Trauma-Zertifizierung), Einstufung W2/7/3. Ca. 42 Std./Woche mit 12,5-Std.-Schichten. Unsauberer Monat mit Schichtzulagen.",
       "collectiveAgreementGroup": null
     },
     {
@@ -19500,8 +19547,8 @@
         "[image] SPARKASSE NIEDEROESTE 3.574,71"
       ],
       "confidence": 0.85,
-      "notes": "fresh recruit (E2b). Unclean payslip with multiple allowances: duty supplement, commute allowance, various shift premiums. High overtime payments included.",
-      "notesDe": "23-jähriger Mann, frisch Rekrutierter (E2b). Unsauberer Lohnzettel mit mehreren Zulagen: Dienstzuschlag, Pendlerzulage, verschiedene Schichtzuschläge. Hohe Überstundenvergütung enthalten.",
+      "notes": "Fresh recruit (E2b). Unclean payslip with multiple allowances: duty supplement, commute allowance, various shift premiums. High overtime payments included.",
+      "notesDe": "Frisch Rekrutierter (E2b). Unsauberer Lohnzettel mit mehreren Zulagen: Dienstzuschlag, Pendlerzulage, verschiedene Schichtzuschläge. Hohe Überstundenvergütung enthalten.",
       "collectiveAgreementGroup": null
     },
     {
@@ -19792,7 +19839,7 @@
       ],
       "confidence": 0.85,
       "notes": "3 years in mobile telecom MVNO. HTL education, studying bachelor part-time (firm-funded). Multiple benefits: free lunch, public transport, fitness, free telecom services.",
-      "notesDe": "23-jähriger Mann, 3 Jahre bei einem Mobilfunk-MVNO. HTL-Ausbildung, berufsbegleitendes Bachelorstudium (vom Unternehmen finanziert). Mehrere Benefits: kostenloses Mittagessen, öffentliche Verkehrsmittel, Fitness, kostenlose Telekom-Leistungen.",
+      "notesDe": "3 Jahre bei einem Mobilfunk-MVNO. HTL-Ausbildung, berufsbegleitendes Bachelorstudium (vom Unternehmen finanziert). Mehrere Benefits: kostenloses Mittagessen, öffentliche Verkehrsmittel, Fitness, kostenlose Telekom-Leistungen.",
       "collectiveAgreementGroup": null
     },
     {
@@ -19833,7 +19880,7 @@
       ],
       "confidence": 0.8,
       "notes": "All-In contract. Includes electric car (full private use). Pension insurance. ~10,700€ gross with 13./14. payments.",
-      "notesDe": "41-jähriger Mann, All-In-Vertrag. Enthält Elektroauto (volle Privatnutzung). Pensionsversicherung. Ca. 10.700 € brutto inklusive 13./14. Gehalt.",
+      "notesDe": "All-In-Vertrag. Enthält Elektroauto (volle Privatnutzung). Pensionsversicherung. Ca. 10.700 € brutto inklusive 13./14. Gehalt.",
       "collectiveAgreementGroup": null
     },
     {
@@ -19875,7 +19922,7 @@
       ],
       "confidence": 0.75,
       "notes": "8 years experience in trade, 4 years as department manager. 2 direct reports. Manages 400k annual revenue division. HAK/HTL education.",
-      "notesDe": "34-jähriger Mann, 8 Jahre Erfahrung im Handel, davon 4 Jahre als Abteilungsleiter. 2 direkt unterstellte Mitarbeiter. Verantwortet eine Abteilung mit 400.000 € Jahresumsatz. HAK-/HTL-Ausbildung.",
+      "notesDe": "8 Jahre Erfahrung im Handel, davon 4 Jahre als Abteilungsleiter. 2 direkt unterstellte Mitarbeiter. Verantwortet eine Abteilung mit 400.000 € Jahresumsatz. HAK-/HTL-Ausbildung.",
       "collectiveAgreementGroup": null
     },
     {
@@ -21462,7 +21509,7 @@
       ],
       "confidence": 0.8,
       "notes": "Bachelor DGKP + 1-year intensive care specialist training. 7 years experience. Turnusdienst (on-call) included.",
-      "notesDe": "31-jähriger Mann, Bachelor DGKP plus 1-jährige Sonderausbildung Intensivpflege. 7 Jahre Erfahrung. Turnusdienst enthalten.",
+      "notesDe": "Bachelor DGKP plus 1-jährige Sonderausbildung Intensivpflege. 7 Jahre Erfahrung. Turnusdienst enthalten.",
       "collectiveAgreementGroup": null
     },
     {
@@ -21503,8 +21550,8 @@
         "[image] Summe Auszahlung 2.072,46"
       ],
       "confidence": 0.8,
-      "notes": "worked March-October at major parcel company. Unclean month with Springer-Taggeld (service travel allowance).",
-      "notesDe": "32-jähriger Mann, März bis Oktober bei einem großen Paketzustellunternehmen tätig. Unsauberer Monat mit Springer-Taggeld (Reisezulage für Springereinsätze).",
+      "notes": "Worked March-October at major parcel company. Unclean month with Springer-Taggeld (service travel allowance).",
+      "notesDe": "März bis Oktober bei einem großen Paketzustellunternehmen tätig. Unsauberer Monat mit Springer-Taggeld (Reisezulage für Springereinsätze).",
       "collectiveAgreementGroup": null
     },
     {
@@ -21546,7 +21593,7 @@
       ],
       "confidence": 0.85,
       "notes": "1 year experience, exclusively 12h day shifts. Qualifications training completed 2024. No night work in current role.",
-      "notesDe": "26-jähriger Mann, 1 Jahr Erfahrung, ausschließlich 12-Std.-Tagschichten. Qualifizierungsausbildung 2024 abgeschlossen. In der aktuellen Rolle keine Nachtarbeit.",
+      "notesDe": "1 Jahr Erfahrung, ausschließlich 12-Std.-Tagschichten. Qualifizierungsausbildung 2024 abgeschlossen. In der aktuellen Rolle keine Nachtarbeit.",
       "collectiveAgreementGroup": null
     },
     {
@@ -21587,7 +21634,7 @@
         "50h/Woche"
       ],
       "confidence": 0.95,
-      "notes": "Deep infrastructure/tunnel construction. Result responsibility for multiple projects (€ annual turnover). High stress: personnel coordination, planning, purchasing, schedule/cost/quality accountability. 50+ hour weeks.",
+      "notes": "Deep infrastructure/tunnel construction. Result responsibility for multiple projects (€20m annual turnover). High stress: personnel coordination, planning, purchasing, schedule/cost/quality accountability. 50+ hour weeks.",
       "notesDe": "Tiefbau/Tunnelbau. Ergebnisverantwortung für mehrere Projekte (20 Mio. € Jahresumsatz). Hoher Stress: Personalkoordination, Planung, Einkauf, Verantwortung für Termine, Kosten und Qualität. Über 50 Std./Woche.",
       "collectiveAgreementGroup": null
     },
@@ -21629,8 +21676,8 @@
         "[image] NETTO 1.114,06"
       ],
       "confidence": 0.7,
-      "notes": "Horse groom/caretaker, Lower Austria (NÖ), 10+ yrs in field. Actually works 60+h/week but OP says payslip amount is her complete pay, no extra cash.",
-      "notesDe": "Pferdepflegerin, Niederösterreich (NÖ), über 10 Jahre im Bereich. Arbeitet tatsächlich über 60 Std./Woche, laut Verfasserin ist der Lohnzettelbetrag jedoch ihre vollständige Bezahlung, kein zusätzliches Bargeld.",
+      "notes": "Horse groom/caretaker, Lower Austria (NÖ), 10+ yrs in field. Actually works 60+h/week but OP says payslip amount is the complete pay, no extra cash.",
+      "notesDe": "Pferdepflege, Niederösterreich (NÖ), über 10 Jahre im Bereich. Arbeitet tatsächlich über 60 Std./Woche; laut Beitrag ist der Lohnzettelbetrag jedoch die vollständige Bezahlung, kein zusätzliches Bargeld.",
       "collectiveAgreementGroup": null
     },
     {
@@ -21672,7 +21719,7 @@
       ],
       "confidence": 0.8,
       "notes": "13 years in retail company (Handels-KV, not IT-KV). Self-taught quereinsteiger; courses and certs. Very flexible, minimal overtime. 100-person company.",
-      "notesDe": "35-jähriger Mann, 13 Jahre in einem Einzelhandelsunternehmen (Handels-KV, nicht IT-KV). Autodidaktischer Quereinsteiger; Kurse und Zertifikate. Sehr flexibel, minimale Überstunden. Firma mit 100 Mitarbeitern.",
+      "notesDe": "13 Jahre in einem Einzelhandelsunternehmen (Handels-KV, nicht IT-KV). Autodidaktischer Quereinsteiger; Kurse und Zertifikate. Sehr flexibel, minimale Überstunden. Firma mit 100 Mitarbeitern.",
       "collectiveAgreementGroup": null
     },
     {
@@ -21961,7 +22008,7 @@
       ],
       "confidence": 0.85,
       "notes": "3.5 years in tax consulting. Total 5.5 years experience. Aspiring tax advisor (final exams pending). Master's degree. Expected range post-certification: 6000-7000€ brutto.",
-      "notesDe": "28-jähriger Mann, 3,5 Jahre in der Steuerberatung. Insgesamt 5,5 Jahre Erfahrung. Angehender Steuerberater (Abschlussprüfungen ausständig). Master-Abschluss. Erwartete Spanne nach der Zertifizierung: 6.000–7.000 € brutto.",
+      "notesDe": "3,5 Jahre in der Steuerberatung. Insgesamt 5,5 Jahre Erfahrung. Angehender Steuerberater (Abschlussprüfungen ausständig). Master-Abschluss. Erwartete Spanne nach der Zertifizierung: 6.000–7.000 € brutto.",
       "collectiveAgreementGroup": null
     },
     {
@@ -22209,7 +22256,7 @@
       ],
       "confidence": 0.85,
       "notes": "Dipl.-Ing. + Master Lebensmitteltechnologie. 2.5 years in current role (started 3000€), raised to 3300€ then 3647€ (with KV increase). Poor KV. Quality management in food industry.",
-      "notesDe": "37-jähriger Mann, Dipl.-Ing. plus Master Lebensmitteltechnologie. 2,5 Jahre in der aktuellen Rolle (Start bei 3.000 €), erhöht auf 3.300 € und dann 3.647 € (mit KV-Erhöhung). Schwacher KV. Qualitätsmanagement in der Lebensmittelindustrie.",
+      "notesDe": "Dipl.-Ing. plus Master Lebensmitteltechnologie. 2,5 Jahre in der aktuellen Rolle (Start bei 3.000 €), erhöht auf 3.300 € und dann 3.647 € (mit KV-Erhöhung). Schwacher KV. Qualitätsmanagement in der Lebensmittelindustrie.",
       "collectiveAgreementGroup": null
     },
     {
@@ -22332,7 +22379,7 @@
       ],
       "confidence": 0.85,
       "notes": "20 years in 900-person company. IT degree. Regular ~20 overtime hours/month, paid. No all-in.",
-      "notesDe": "45-jähriger Mann, 20 Jahre in einer Firma mit 900 Mitarbeitern. IT-Studium. Regelmäßig ca. 20 bezahlte Überstunden/Monat. Kein All-In.",
+      "notesDe": "20 Jahre in einer Firma mit 900 Mitarbeitern. IT-Studium. Regelmäßig ca. 20 bezahlte Überstunden/Monat. Kein All-In.",
       "collectiveAgreementGroup": null
     },
     {
@@ -22742,8 +22789,8 @@
         "[image] Auszahlung 4.874,84"
       ],
       "confidence": 0.8,
-      "notes": "3 years in role. MSc E-Technics (finished at 32, studied long). 38.5h + 6h (25h/month overtime paused). Flexible work schedule, evening/weekend work common.",
-      "notesDe": "39-jähriger Mann, 3 Jahre in der Rolle. MSc Elektrotechnik (Abschluss mit 32, langes Studium). 38,5 Std. plus 6 Std. (25 Std./Monat Überstunden pausiert). Flexible Arbeitszeit, Abend-/Wochenendarbeit üblich.",
+      "notes": "3 years in role. MSc E-Technics (studied long). 38.5h + 6h (25h/month overtime paused). Flexible work schedule, evening/weekend work common.",
+      "notesDe": "3 Jahre in der Rolle. MSc Elektrotechnik (langes Studium). 38,5 Std. plus 6 Std. (25 Std./Monat Überstunden pausiert). Flexible Arbeitszeit, Abend-/Wochenendarbeit üblich.",
       "collectiveAgreementGroup": null
     }
   ]
