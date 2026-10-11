@@ -31,6 +31,7 @@
     "EEI": { "kv": "Elektro- und Elektronikindustrie", "group": null },
     "FEEI KV": { "kv": "Elektro- und Elektronikindustrie", "group": null },
     "KV EEI": { "kv": "Elektro- und Elektronikindustrie", "group": null },
+    "KV Elektro- und Elektronikindustrie": { "kv": "Elektro- und Elektronikindustrie", "group": null },
     "Elektro-KV": { "kv": "Elektro- und Elektronikindustrie", "group": null },
     "KV Elektroinstallateur": { "kv": "Elektrogewerbe", "group": null },
     "Elektrotechnik": { "kv": "Elektrogewerbe", "group": null },

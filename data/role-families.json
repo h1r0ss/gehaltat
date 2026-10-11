@@ -760,6 +760,8 @@
     "Carpenter": "skilled-trades-crafts",
     "Painter": "skilled-trades-crafts",
     "Mechanical Engineer": "degree-engineers",
+    "Simulation Engineer": "degree-engineers",
+    "Recruiter": "human-resources",
     "Full Stack Developer": "software-development",
     "Automation Technician": "mechatronics-industrial-technicians",
     "Team Lead": "production-manufacturing-operations",
