@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:56:51.098Z",
+  "generatedAt": "2026-10-19T05:59:05.441Z",
   "subreddit": "GehaltAT",
   "roleFamilies": [
     {
@@ -1199,7 +1199,7 @@
       "employmentType": "employee",
       "salaryKind": "current",
       "paymentsPerYear": 14,
-      "grossMonthly": 6700.57,
+      "grossMonthly": 6428.57,
       "grossAnnual": 90000,
       "netMonthly": 3770.28,
       "hourlyGross": null,
@@ -1213,11 +1213,11 @@
       "figuresVerified": true,
       "evidence": [
         "Jahresgehalt: 90k € brutto",
-        "BRUTTO 6.700,57",
+        "Gehalt 6.428,57",
         "NETTO 3.770,28"
       ],
       "confidence": 0.8,
-      "notes": "Field sales engineer for industrial plants. Monthly gross includes company-car benefit 272; target bonus of 30% of annual salary and per diems come on top; 30-60h working time.",
+      "notes": "Field sales engineer for industrial plants. Base salary; payslip adds a 272 company-car benefit (non-cash). Target bonus of 30% and per diems on top; 30-60h working time.",
       "notesDe": null,
       "collectiveAgreementGroup": null
     },
