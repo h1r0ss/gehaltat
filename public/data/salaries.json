@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T22:20:02.144Z",
+  "generatedAt": "2026-10-23T22:21:36.145Z",
   "subreddit": "GehaltAT",
   "roleFamilies": [
     {
@@ -903,8 +903,8 @@
       "standardizedTitle": "Teacher",
       "roleFamily": "teaching-education",
       "industry": "Education & Research",
-      "seniority": null,
-      "experienceYears": null,
+      "seniority": "senior",
+      "experienceYears": 7,
       "region": null,
       "hoursPerWeek": null,
       "employmentType": "employee",
@@ -926,7 +926,7 @@
         "Bei den ca 3500 netto sind Zulagen dabei"
       ],
       "confidence": 0.65,
-      "notes": "Approximate net including allowances; 13th/14th pay is base salary only. Full teaching load at a technical secondary school; whether net is paid 12 or 14 times is not stated.",
+      "notes": "Approximate net including allowances; 13th/14th pay is base salary only. Full teaching load at a technical secondary school, 8th year of service; whether net is paid 12 or 14 times is not stated.",
       "notesDe": null,
       "collectiveAgreementGroup": null
     },
