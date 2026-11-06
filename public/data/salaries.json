@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T09:43:46.392Z",
+  "generatedAt": "2026-11-06T07:34:42.619Z",
   "subreddit": "GehaltAT",
   "roleFamilies": [
     {
@@ -716,14 +716,141 @@
     }
   ],
   "coverage": {
-    "postsCollected": 880,
-    "commentsCollected": 24326,
-    "postsWithSalary": 565,
-    "records": 571,
+    "postsCollected": 883,
+    "commentsCollected": 24413,
+    "postsWithSalary": 568,
+    "records": 574,
     "firstPostDate": "2026-02-10",
-    "lastPostDate": "2026-11-02"
+    "lastPostDate": "2026-11-05"
   },
   "records": [
+    {
+      "id": "1xoe2w4",
+      "postId": "1xoe2w4",
+      "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1xoe2w4/",
+      "postDate": "2026-11-05",
+      "postTitle": "Digital Transformation Manager, Quereinsteiger, >5yoe, 30h/week",
+      "flair": null,
+      "upvotes": 18,
+      "numComments": 11,
+      "jobTitle": "Digital Transformation Manager",
+      "standardizedTitle": "Digital Transformation Manager",
+      "roleFamily": "business-strategy-consulting",
+      "industry": "Engineering & Manufacturing",
+      "seniority": "lead",
+      "experienceYears": 5,
+      "region": "Tyrol",
+      "hoursPerWeek": 30,
+      "employmentType": "employee",
+      "salaryKind": "current",
+      "paymentsPerYear": 14,
+      "grossMonthly": 4772.3,
+      "grossAnnual": 66812,
+      "netMonthly": 3104.03,
+      "hourlyGross": null,
+      "bonusAnnual": null,
+      "allIn": null,
+      "collectiveAgreement": null,
+      "salarySource": "image",
+      "derived": [
+        "paymentsPerYear",
+        "grossAnnual"
+      ],
+      "figuresVerified": true,
+      "evidence": [
+        "Gehalt 4.776,00",
+        "Brutto 4.772,30",
+        "Netto 3.104,03"
+      ],
+      "confidence": 0.85,
+      "notes": "Career changer, started as ERP administrator 5 years ago; now responsible for ERP, business processes and digitalisation at a manufacturing site. Leads 3 staff. About 30h/week, clean month.",
+      "notesDe": "Quereinsteiger, vor 5 Jahren als ERP-Administrator gestartet; jetzt verantwortlich für ERP, Geschäftsprozesse und Digitalisierung an einem Produktionsstandort. Führt 3 Mitarbeitende. Rund 30 Std./Woche, sauberer Monat.",
+      "collectiveAgreementGroup": null
+    },
+    {
+      "id": "1xoo69c",
+      "postId": "1xoo69c",
+      "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1xoo69c/",
+      "postDate": "2026-11-05",
+      "postTitle": "Metalltechniker, HTL Maschinenbau Abschluss, 3 Jahre im Betrieb",
+      "flair": null,
+      "upvotes": 15,
+      "numComments": 17,
+      "jobTitle": "Metalltechniker",
+      "standardizedTitle": "Metal Technician",
+      "roleFamily": "mechatronics-industrial-technicians",
+      "industry": "Engineering & Manufacturing",
+      "seniority": "mid",
+      "experienceYears": 3,
+      "region": null,
+      "hoursPerWeek": null,
+      "employmentType": "employee",
+      "salaryKind": "current",
+      "paymentsPerYear": 14,
+      "grossMonthly": 2948.85,
+      "grossAnnual": 41284,
+      "netMonthly": 2144.74,
+      "hourlyGross": null,
+      "bonusAnnual": null,
+      "allIn": null,
+      "collectiveAgreement": null,
+      "salarySource": "image",
+      "derived": [
+        "paymentsPerYear",
+        "grossAnnual"
+      ],
+      "figuresVerified": true,
+      "evidence": [
+        "Monatslohn 2.948,85",
+        "Brutto 2.948,85",
+        "Netto 2.144,74"
+      ],
+      "confidence": 0.9,
+      "notes": "Metal technician with HTL mechanical engineering diploma, 3 years at the company, paid as a blue-collar worker. Clean month without allowances; with allowances net is usually about 2.6k.",
+      "notesDe": "Metalltechniker mit HTL-Abschluss Maschinenbau, 3 Jahre im Betrieb, als Arbeiter eingestuft. Sauberer Monat ohne Zulagen; mit Zulagen liegt das Netto meist bei rund 2.600 €.",
+      "collectiveAgreementGroup": null
+    },
+    {
+      "id": "1xnsvbu",
+      "postId": "1xnsvbu",
+      "sourceUrl": "https://www.reddit.com/r/GehaltAT/comments/1xnsvbu/",
+      "postDate": "2026-11-04",
+      "postTitle": "Monteur Stahlbau 60h",
+      "flair": null,
+      "upvotes": 149,
+      "numComments": 45,
+      "jobTitle": "Monteur Stahlbau",
+      "standardizedTitle": "Steel Construction Fitter",
+      "roleFamily": "skilled-trades-crafts",
+      "industry": "Construction & Trades",
+      "seniority": null,
+      "experienceYears": null,
+      "region": null,
+      "hoursPerWeek": null,
+      "employmentType": "employee",
+      "salaryKind": "current",
+      "paymentsPerYear": 14,
+      "grossMonthly": 3410,
+      "grossAnnual": 47740,
+      "netMonthly": null,
+      "hourlyGross": null,
+      "bonusAnnual": null,
+      "allIn": null,
+      "collectiveAgreement": null,
+      "salarySource": "image",
+      "derived": [
+        "paymentsPerYear",
+        "grossAnnual"
+      ],
+      "figuresVerified": true,
+      "evidence": [
+        "A-Montage Monatslohn 3.410,00"
+      ],
+      "confidence": 0.7,
+      "notes": "Base only; works about 60h/week on assembly abroad. Payslip also shows foreign per diems, assembly and dirt allowances and overtime pay; reduced wage tax for long foreign assignments.",
+      "notesDe": "Nur Grundgehalt; arbeitet rund 60 Std./Woche auf Auslandsmontage. Der Lohnzettel zeigt zusätzlich Auslandsdiäten, Montage- und Schmutzzulage sowie Überstunden; verminderte Lohnsteuer bei langen Auslandseinsätzen.",
+      "collectiveAgreementGroup": null
+    },
     {
       "id": "1xlzinj",
       "postId": "1xlzinj",
@@ -731,8 +858,8 @@
       "postDate": "2026-11-02",
       "postTitle": "Facility Manager I 1 Jahr im Unternehmen I 14 Jahre I 38,5h",
       "flair": null,
-      "upvotes": 40,
-      "numComments": 24,
+      "upvotes": 49,
+      "numComments": 26,
       "jobTitle": "Facility Manager",
       "standardizedTitle": "Facility Manager",
       "roleFamily": "construction-site-management",
@@ -859,7 +986,7 @@
       "postDate": "2026-10-29",
       "postTitle": "IT Linux Support - 38.5h",
       "flair": null,
-      "upvotes": 36,
+      "upvotes": 35,
       "numComments": 35,
       "jobTitle": "IT Linux Support",
       "standardizedTitle": "IT Support Technician",
@@ -901,8 +1028,8 @@
       "postDate": "2026-10-29",
       "postTitle": "Business Intelligence Data Analyst | 4YOE",
       "flair": null,
-      "upvotes": 67,
-      "numComments": 34,
+      "upvotes": 79,
+      "numComments": 37,
       "jobTitle": "Business Intelligence Data Analyst",
       "standardizedTitle": "Data Analyst",
       "roleFamily": "data-analytics",
@@ -944,8 +1071,8 @@
       "postDate": "2026-10-27",
       "postTitle": "OÖ | Full Stack Developer | 38.5h",
       "flair": null,
-      "upvotes": 79,
-      "numComments": 34,
+      "upvotes": 97,
+      "numComments": 38,
       "jobTitle": "Full Stack Developer",
       "standardizedTitle": "Software Developer",
       "roleFamily": "software-development",
@@ -987,8 +1114,8 @@
       "postDate": "2026-10-27",
       "postTitle": "Senior Konstrukteur Maschinenbau",
       "flair": null,
-      "upvotes": 29,
-      "numComments": 27,
+      "upvotes": 37,
+      "numComments": 30,
       "jobTitle": "Senior Konstrukteur Maschinenbau",
       "standardizedTitle": "Design Engineer",
       "roleFamily": "technical-design-drafting",
@@ -1100,7 +1227,7 @@
       ],
       "confidence": 0.7,
       "notes": "Offer example from a large industrial company, below the advertised 63000 and the asked 65000 gross per year. Role level not stated.",
-      "notesDe": null,
+      "notesDe": "Beispielangebot eines großen Industrieunternehmens, unter den ausgeschriebenen 63.000 € und den geforderten 65.000 € brutto pro Jahr. Stufe der Rolle nicht angegeben.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1142,7 +1269,7 @@
       ],
       "confidence": 0.7,
       "notes": "Cropped payslip shows only the totals; no special-payment tax lines, so the month looks regular. Net taken from Auszahlung (no net line visible). Level between junior and senior.",
-      "notesDe": null,
+      "notesDe": "Beschnittener Lohnzettel zeigt nur die Summen; keine Steuerzeilen für Sonderzahlungen, der Monat wirkt daher regulär. Netto aus der Auszahlung übernommen (keine Nettozeile sichtbar). Stufe zwischen Junior und Senior.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1183,7 +1310,7 @@
       ],
       "confidence": 0.8,
       "notes": "Fixed annual salary; a variable bonus of about 3,000-6,000 comes on top (stated as a range). Full-time, not on an all-in contract. The 74k figure is a demand, not an offer.",
-      "notesDe": null,
+      "notesDe": "Fixes Jahresgehalt; dazu kommt eine variable Prämie von rund 3.000–6.000 € (als Spanne angegeben). Vollzeit, kein All-In-Vertrag. Die 74.000 € sind eine Forderung, kein Angebot.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1225,7 +1352,7 @@
       ],
       "confidence": 0.9,
       "notes": "Clean September payslip: base salary only, no overtime or special payments. Travel agency sales and advice, plus one Saturday shift per month.",
-      "notesDe": null,
+      "notesDe": "Sauberer Lohnzettel für September: nur Grundgehalt, keine Überstunden oder Sonderzahlungen. Verkauf und Beratung im Reisebüro, dazu ein Samstagsdienst pro Monat.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1265,7 +1392,7 @@
       ],
       "confidence": 0.65,
       "notes": "Approximate net including allowances; 13th/14th pay is base salary only. Full teaching load at a technical secondary school, 8th year of service; whether net is paid 12 or 14 times is not stated.",
-      "notesDe": null,
+      "notesDe": "Ungefähres Netto inklusive Zulagen; 13./14. Gehalt nur auf Basis des Grundgehalts. Volle Lehrverpflichtung an einer HTL, 8. Dienstjahr; ob das Netto 12- oder 14-mal ausgezahlt wird, ist nicht angegeben.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1306,7 +1433,7 @@
       ],
       "confidence": 0.6,
       "notes": "Approximate figure ('a good 5k'), read as monthly gross. Group-wide ERP project lead at an industrial company; pay unchanged since taking the role.",
-      "notesDe": null,
+      "notesDe": "Ungefährer Betrag („gute 5k“), als Monatsbrutto gelesen. Konzernweite ERP-Projektleitung in einem Industrieunternehmen; Gehalt seit der Übernahme der Rolle unverändert.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1347,7 +1474,7 @@
       ],
       "confidence": 0.75,
       "notes": "Offer as project manager for software projects at a machinery manufacturer; MSc degree. No all-in.",
-      "notesDe": null,
+      "notesDe": "Angebot als Projektmanager für Softwareprojekte bei einem Maschinenbauer; MSc-Abschluss. Kein All-In.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1388,7 +1515,7 @@
       ],
       "confidence": 0.7,
       "notes": "Base only; payslip also shows lunch supervision, subject allowances and substitution pay plus back-calculations. Full-time secondary school teacher.",
-      "notesDe": null,
+      "notesDe": "Nur Grundgehalt; der Lohnzettel zeigt zusätzlich Mittagsaufsicht, Fachzulagen und Supplierstunden sowie Nachverrechnungen. Vollzeitlehrkraft an einer Sekundarschule.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1429,7 +1556,7 @@
       ],
       "confidence": 0.75,
       "notes": "Base only; payslip also shows a one-off cost reimbursement of 461 for the previous month. Full-time secondary school teacher in Vienna.",
-      "notesDe": null,
+      "notesDe": "Nur Grundgehalt; der Lohnzettel zeigt zusätzlich einen einmaligen Kostenersatz von 461 € für den Vormonat. Vollzeitlehrkraft an einer Sekundarschule in Wien.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1472,7 +1599,7 @@
       ],
       "confidence": 0.9,
       "notes": "Project manager in automotive on all-in with about 10 overtime hours per month, classified in the retail collective agreement. Clean month.",
-      "notesDe": null,
+      "notesDe": "Projektmanager in der Automobilbranche mit All-In und rund 10 Überstunden pro Monat, eingestuft im Handels-KV. Sauberer Monat.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1513,7 +1640,7 @@
       ],
       "confidence": 0.7,
       "notes": "Base only; payslip also shows function allowance 827.60 and overtime flat rate 1,097.85. Public-sector lawyer in Vienna, all-in contract.",
-      "notesDe": null,
+      "notesDe": "Nur Grundgehalt; der Lohnzettel zeigt zusätzlich 827,60 € Funktionszulage und 1.097,85 € Überstundenpauschale. Jurist im öffentlichen Dienst in Wien, All-In-Vertrag.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1554,7 +1681,7 @@
       ],
       "confidence": 0.8,
       "notes": "Offer for field service technician (electrical/metal), 4x9.6h week; contract would classify as VG 2 and offset overtime surcharges via overpayment.",
-      "notesDe": null,
+      "notesDe": "Angebot als Servicetechniker (Elektro/Metall), 4×9,6-Std.-Woche; der Vertrag würde in VG 2 einstufen und Überstundenzuschläge über die Überzahlung abgelten.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1596,7 +1723,7 @@
       ],
       "confidence": 0.9,
       "notes": "Full-time carpenter technician in a small joinery, about 75% office work (planning, quotes, some leadership). Clean month; the 3,700 is a raise ask, not a salary.",
-      "notesDe": null,
+      "notesDe": "Vollzeit-Tischlereitechniker in einer kleinen Tischlerei, rund 75 % Büroarbeit (Planung, Angebote, etwas Führung). Sauberer Monat; die 3.700 € sind eine Gehaltsforderung, kein Gehalt.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1637,7 +1764,7 @@
       ],
       "confidence": 0.7,
       "notes": "Base only; payslip also shows function allowance 661.80 and three months of overtime. Public-sector legal officer, about 43 hours per week incl. paid overtime.",
-      "notesDe": null,
+      "notesDe": "Nur Grundgehalt; der Lohnzettel zeigt zusätzlich 661,80 € Funktionszulage und Überstunden aus drei Monaten. Jurist im öffentlichen Dienst, rund 43 Std./Woche inkl. bezahlter Überstunden.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1679,7 +1806,7 @@
       ],
       "confidence": 0.7,
       "notes": "IT support at a small service provider, now also handling servers and network. Payslip cropped; figures read as gross and net. Includes some overpayment above collective agreement.",
-      "notesDe": null,
+      "notesDe": "IT-Support bei einem kleinen Dienstleister, betreut inzwischen auch Server und Netzwerk. Lohnzettel beschnitten; Beträge als Brutto und Netto gelesen. Enthält eine Überzahlung über dem Kollektivvertrag.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1720,7 +1847,7 @@
       ],
       "confidence": 0.65,
       "notes": "Part-time offer at a medical practice, 20 hours per week, office hours only; career changer without prior experience in the field.",
-      "notesDe": null,
+      "notesDe": "Teilzeitangebot in einer Arztpraxis, 20 Std./Woche, nur während der Ordinationszeiten; Quereinsteiger ohne Vorerfahrung im Bereich.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1761,7 +1888,7 @@
       ],
       "confidence": 0.65,
       "notes": "Planning team lead at a mid-sized industrial company; apprenticeship background, career changer from fitter. Approximate figure.",
-      "notesDe": null,
+      "notesDe": "Teamleitung Planung in einem mittelgroßen Industrieunternehmen; Lehrabschluss, Quereinsteiger aus dem Schlosserberuf. Ungefährer Betrag.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1803,7 +1930,7 @@
       ],
       "confidence": 0.8,
       "notes": "Field sales engineer for industrial plants. Base salary; payslip adds a 272 company-car benefit (non-cash). Target bonus of 30% and per diems on top; 30-60h working time.",
-      "notesDe": null,
+      "notesDe": "Außendienst-Vertriebsingenieur für Industrieanlagen. Grundgehalt; der Lohnzettel weist zusätzlich 272 € Sachbezug für den Firmenwagen aus. Dazu 30 % Zielprämie und Diäten; Arbeitszeit 30–60 Std.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1844,7 +1971,7 @@
       ],
       "confidence": 0.7,
       "notes": "Base hourly pay only; payslip also shows night and shift allowances and absence pay. Temp-agency worker in food production, rotating three-shift system.",
-      "notesDe": null,
+      "notesDe": "Nur Grundstundenlohn; der Lohnzettel zeigt zusätzlich Nacht- und Schichtzulagen sowie Entgelt für Abwesenheiten. Leiharbeiter in der Lebensmittelproduktion, Dreischicht-Wechselbetrieb.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1886,7 +2013,7 @@
       ],
       "confidence": 0.9,
       "notes": "2nd and 3rd level IT support in healthcare, part-time 30 hours, also tests for development.",
-      "notesDe": null,
+      "notesDe": "IT-Support im 2nd und 3rd Level im Gesundheitsbereich, Teilzeit 30 Std., testet zusätzlich für die Entwicklung.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1927,7 +2054,7 @@
       ],
       "confidence": 0.7,
       "notes": "Base only; payslip also shows variable premium, 10 overtime hours, shift and dirt allowances and back pay. Two-shift aluminium welding production.",
-      "notesDe": null,
+      "notesDe": "Nur Grundgehalt; der Lohnzettel zeigt zusätzlich eine variable Prämie, 10 Überstunden, Schicht- und Schmutzzulage sowie eine Nachzahlung. Aluminiumschweißen in der Produktion, Zweischichtbetrieb.",
       "collectiveAgreementGroup": null
     },
     {
@@ -1969,7 +2096,7 @@
       ],
       "confidence": 0.85,
       "notes": "Head of digital marketing leading a small team, about 2 home-office days a week. Gross includes a small transit-ticket benefit. Clean month.",
-      "notesDe": null,
+      "notesDe": "Head of Digital Marketing mit kleinem Team, rund 2 Homeoffice-Tage pro Woche. Das Brutto enthält einen kleinen Sachbezug für ein Öffi-Ticket. Sauberer Monat.",
       "collectiveAgreementGroup": null
     },
     {
@@ -2010,7 +2137,7 @@
       ],
       "confidence": 0.7,
       "notes": "Base only; payslip also shows shift, Sunday and holiday allowances and payout corrections. Four-shift forklift driver in the chemical industry.",
-      "notesDe": null,
+      "notesDe": "Nur Grundgehalt; der Lohnzettel zeigt zusätzlich Schicht-, Sonntags- und Feiertagszulagen sowie Auszahlungskorrekturen. Staplerfahrer im Vierschichtbetrieb in der chemischen Industrie.",
       "collectiveAgreementGroup": null
     },
     {
@@ -2050,7 +2177,7 @@
       ],
       "confidence": 0.9,
       "notes": "Trainee lawyer in a small firm with bar exam passed in 2023; about 9 years total professional experience incl. compliance and administration.",
-      "notesDe": null,
+      "notesDe": "Konzipient in einer kleinen Kanzlei, Anwaltsprüfung 2023 bestanden; rund 9 Jahre Berufserfahrung insgesamt, inkl. Compliance und Verwaltung.",
       "collectiveAgreementGroup": null
     },
     {
@@ -2091,7 +2218,7 @@
       ],
       "confidence": 0.7,
       "notes": "Total gross of the payslip month incl. fixed overpayment and on-top; net omitted as rent deductions and a previous-month payout distort it. Station dispatcher.",
-      "notesDe": null,
+      "notesDe": "Gesamtbrutto des Lohnzettelmonats inkl. fixer Überzahlung und On-top-Betrag; Netto weggelassen, da Mietabzüge und eine Auszahlung aus dem Vormonat es verzerren. Fahrdienstleiter.",
       "collectiveAgreementGroup": null
     },
     {
@@ -2132,7 +2259,7 @@
       ],
       "confidence": 0.7,
       "notes": "Current bank job with career prospects; holds business and law degrees and completed court practice.",
-      "notesDe": null,
+      "notesDe": "Aktueller Job in einer Bank mit Aufstiegsperspektive; Abschlüsse in Wirtschaft und Jus, Gerichtspraxis absolviert.",
       "collectiveAgreementGroup": null
     },
     {
@@ -2173,7 +2300,7 @@
       ],
       "confidence": 0.7,
       "notes": "Offer as notary candidate (trainee notary) in the notary profession.",
-      "notesDe": null,
+      "notesDe": "Angebot als Notariatskandidat im Notariat.",
       "collectiveAgreementGroup": null
     },
     {
@@ -2214,7 +2341,7 @@
       ],
       "confidence": 0.9,
       "notes": "Mechanical stress analysis in a corporate group, no staff responsibility. Flexitime with overtime paid out. Payslip month includes a one-off suggestion bonus.",
-      "notesDe": null,
+      "notesDe": "Mechanische Festigkeitsberechnung in einem Konzern, keine Personalverantwortung. Gleitzeit, Überstunden werden ausbezahlt. Der Lohnzettelmonat enthält eine einmalige Prämie für einen Verbesserungsvorschlag.",
       "collectiveAgreementGroup": null
     },
     {
@@ -2256,7 +2383,7 @@
       ],
       "confidence": 0.9,
       "notes": "Small recruitment agency, nearly full remote. Month without commission; occasional commissions average about 150 net per month.",
-      "notesDe": null,
+      "notesDe": "Kleine Personalvermittlung, fast vollständig remote. Monat ohne Provision; gelegentliche Provisionen ergeben im Schnitt rund 150 € netto pro Monat.",
       "collectiveAgreementGroup": null
     },
     {
@@ -2296,7 +2423,7 @@
       ],
       "confidence": 0.9,
       "notes": "Full stack developer after an apprenticeship (LAP). Plus a yearly 1,000 net bonus, paid gym and public transport pass; unlimited remote work.",
-      "notesDe": null,
+      "notesDe": "Full-Stack-Entwickler nach Lehrabschluss (LAP). Dazu jährlich 1.000 € netto Prämie, bezahltes Fitnessstudio und Öffi-Jahreskarte; unbegrenztes Remote-Arbeiten.",
       "collectiveAgreementGroup": null
     },
     {
@@ -2338,7 +2465,7 @@
       ],
       "confidence": 0.9,
       "notes": "Entry salary, about 9 months in first full-time job after a mechatronics master's; biomass boiler maker. Clean month; small tax-free mileage allowance.",
-      "notesDe": null,
+      "notesDe": "Einstiegsgehalt, rund 9 Monate im ersten Vollzeitjob nach einem Master in Mechatronik; Hersteller von Biomassekesseln. Sauberer Monat; kleines steuerfreies Kilometergeld.",
       "collectiveAgreementGroup": null
     },
     {
@@ -2380,7 +2507,7 @@
       ],
       "confidence": 0.9,
       "notes": "Controller in the IT industry on a 34-hour four-day week. Clean month.",
-      "notesDe": null,
+      "notesDe": "Controller in der IT-Branche mit 34-Stunden-Viertagewoche. Sauberer Monat.",
       "collectiveAgreementGroup": null
     },
     {
